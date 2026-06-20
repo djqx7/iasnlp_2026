@@ -1,0 +1,821 @@
+file_name,transcript,label
+2_0_d1.wav,Let me pay for it now.,directive
+12_0_d2.wav,"Hold the line, please. I'll put your call through.",directive
+5_0_d9.wav,"Take some with you next time, just in case.",inform
+12_1_d10.wav,See you.,inform
+5_0_d13.wav,"Don't worry, we can go tomorrow morning. It opens at eight.",directive
+7_0_d13.wav,Let's take a walk for a half an hour. My sister will get here at about 8: 30PM and then we can all go out to dinner.,directive
+1_0_d28.wav,Stay away from me.,inform
+0_0_d29.wav,"Look, Cindy. This is a photograph I took during my trip to Australia.",inform
+8_0_d29.wav,Guess!,inform
+8_0_d30.wav,Don't worry. I'll help you with it later.,directive
+0_0_d31.wav,"Excuse me, do you have A tale of Two Cities? I'd like a copy of it.",directive
+12_1_d32.wav,"Don't worry. I think in most cases, children are the glue that keeps a family together.",inform
+8_0_d42.wav,Come on. It’s no trouble at all.,directive
+2_1_d48.wav,"Let me guess, from Sarah. It looks like something she would drive.",inform
+10_0_d50.wav,"Let me see. Yes, Mary. Let's make it next Wednesday.",commissive
+9_1_d52.wav,Umm not me. I'm too hot and I'm too tired.,inform
+13_1_d52.wav,Get out of it! It wasn't as good as you think.,inform
+6_0_d59.wav,Don't tell me anything about it. I want to read it for myself.,directive
+7_1_d69.wav,Don't worry. My friend says he can always arrange his schedule around your schedule.,directive
+9_1_d69.wav,Let's do it this way. I'll take him to your place this Saturday. Then you two can make a schedule.,directive
+10_0_d69.wav,Make sure you come here before noon. I will be picking up my friend at the airport in the afternoon.,directive
+17_1_d69.wav,See you.,inform
+0_1_d71.wav,Excuse me!,inform
+1_0_d72.wav,"Let's get the table wares we need first, and then stand in the line.",directive
+3_0_d72.wav,Let's stand in the line now.,directive
+3_0_d76.wav,"Come on, Yi jun. It's lots of fun. You've seen football played on TV.",inform
+3_1_d81.wav,"Think of a deep bathtub that you can swim in, but against a current.",directive
+10_0_d84.wav,Please read the instructions on the copier.,directive
+2_0_d92.wav,Tell me about it. I'm interested.,directive
+3_1_d94.wav,Forget it! It was a bitter pill for me to swallow.,inform
+4_0_d96.wav,Tell him I was asking about him.,directive
+12_0_d97.wav,Save it until you've served dishes.,commissive
+3_0_d102.wav,Let me tell you. First you must buy a ticket.,directive
+4_0_d104.wav,See that. It's so dangerous. My mom would never allow me to do that.,directive
+3_0_d105.wav,Take the same number bus going other direction. There’s stop right cross the street.,directive
+4_1_d107.wav,Don't worry. You'll do better next time.,inform
+1_1_d108.wav,Send an ambulance fast! My husband is having a heart attack!,directive
+2_0_d108.wav,Slow down and tell me your address.,commissive
+9_0_d109.wav,Please go over there to weigh them.,commissive
+3_0_d116.wav,"Let me stop my car for check. Oh, my god. I got a flat tyre.",inform
+8_1_d122.wav,Come on. You just haven’t met the right person and I think that you work too much. You should learn how to entertain yourself and enjoy life.,directive
+11_0_d122.wav,Have a nice weekend.,inform
+15_0_d122.wav,See you.,inform
+3_1_d125.wav,Tell him I hope he's better soon.,inform
+1_1_d137.wav,Give me a chance to explain. I was on my way and I had an accident.,inform
+10_0_d138.wav,Use the number on the back of your library card.,directive
+1_1_d140.wav,"Give me a six-piece chicken nuggets, a large fry and a large Coke.",inform
+13_1_d141.wav,Remember us for all your computer needs.,directive
+2_1_d144.wav,"Let me see. Yes, we have one room left. You're lucky. It's the last one.",inform
+10_1_d144.wav,Please fill out this registration card. Here is your key. You can park your car in front of our room. Check - out time is noon.,directive
+6_1_d147.wav,Umm the Brazilian team versus the American team. Don't miss it.,inform
+13_1_d150.wav,Let me think about it.,inform
+14_1_d153.wav,Don't mention it. That's what friends are for!,inform
+0_0_d159.wav,Please help yourself at your dishes. I hope you’ll enjoy what you’ve got.,directive
+8_0_d161.wav,Don't worry. We will come back again a little later.,commissive
+5_1_d166.wav,Go straight ahead through the intersection.,inform
+6_0_d166.wav,"Wait, let me write this down... Alright, I'm ready.",inform
+7_1_d166.wav,"Keep walking till you pass the square, then turn right. Walk past two lights and turn left at the third.",inform
+9_1_d166.wav,Keep walking and look for a tall building.,inform
+5_1_d189.wav,Take it easy. We should be able to make it unless we get caught in a traffic jam.,inform
+7_1_d189.wav,Don't worry. The traffic is smooth. You will be there in time for your flight.,inform
+9_1_d190.wav,"Don't mention it, umm I'll just wrap this up for you.",inform
+1_1_d193.wav,"Go to Gate fifty six, the plane is now boarding, you must hurry.",inform
+2_0_d193.wav,Show me the fastest way to get there.,directive
+5_0_d198.wav,Go to yahoo.com and click on “Travel” and “Tickets”. They’ll be about a billion sites to look at.,directive
+4_0_d200.wav,Be sure to get to the sports hall at nine o'clock on Sunday morning.,directive
+14_1_d203.wav,"Let me think. You could get an Indian or Thai vegetable curry, or you could get some Kimchi.",inform
+2_1_d212.wav,Please! You can do it. Their clothes are all laid out on the bed.,directive
+6_1_d212.wav,Don't worry! Today they are wearing dresses!,inform
+0_0_d215.wav,"Give me scotch, please.",directive
+3_0_d223.wav,Please give me a piece of pie first.,directive
+9_0_d230.wav,"Please fill out this form, and then take your parcel to the counter on my left-hand side.",directive
+11_1_d231.wav,Come on! I believe you will succeed.,inform
+5_1_d233.wav,"Sign here, please.",directive
+2_1_d236.wav,Don't you know? Tomorrow is Father's Day.,question
+4_1_d243.wav,Don't be silly. We have reached the age to take the responsibility by ourselves.,inform
+7_1_d247.wav,Leave me alone.,inform
+3_0_d249.wav,Come on. We are going to be late.,commissive
+3_0_d250.wav,Take care and give my best to your parents.,inform
+10_1_d252.wav,"Look, dear. It’s over there.",inform
+8_0_d253.wav,Let me dig my VISA out of my purse.,inform
+6_1_d254.wav,Don't make such a fuss. I'm sure you will like today's programme.,inform
+4_1_d255.wav,Check out this article. It says smoking can lead to lung cancer.,inform
+4_0_d256.wav,"Wait, you love salmon, don't you? They have the best salmon pasta.",question
+7_1_d258.wav,Let's try it!,inform
+6_0_d261.wav,"Fill out this exchange memo, please.",directive
+8_0_d261.wav,"Wait a second, please... These are twenty four thousand sixty RIBs and the receipt, please check them.",directive
+12_1_d266.wav,Wait and see. I want to try horseback riding after fishing. It looks very exciting and fun.,inform
+4_1_d272.wav,"Don't push your luck, Dave.",inform
+6_0_d277.wav,Please put your name on this list.,directive
+3_0_d281.wav,Let's go under the tree.,directive
+3_1_d283.wav,Come by any time.,inform
+1_0_d286.wav,Don't tell me it affects our flight.,inform
+0_1_d291.wav,Please lend me some money.,directive
+1_1_d294.wav,"Come in, please.",commissive
+1_1_d297.wav,Let's plan a surprise party for him!,directive
+2_1_d298.wav,"Please forgive me, but I have to leave. I feel terrible but...",inform
+3_0_d299.wav,"Please cut the sides shorter, but not so much at the back.",directive
+0_1_d310.wav,"Guess what, Gilly? I won both bids.",question
+8_1_d315.wav,Let's give Malia a call and ask her for her help right now.,directive
+4_0_d318.wav,"Face it, you don't like action movies because you're a snob.",inform
+6_1_d319.wav,Tell me about it.,inform
+0_1_d321.wav,"Excuse me, driver. Let me off here, please.",directive
+6_0_d323.wav,Don't forget to call your host mother to tell her.,directive
+1_1_d326.wav,Take the books out of the bookcase. Put them in this box.,inform
+3_1_d326.wav,Take the magazines out of the bookcase. Put them in that box.,directive
+2_0_d328.wav,"Umm what kind of room would you like, ma’am? We got single rooms, double rooms, standard rooms, suites and deluxe suites.",question
+2_0_d330.wav,"Let me check. Yes, we have.",inform
+7_1_d333.wav,"Compare with speaking, yes! But things are not good as you expecting!",commissive
+12_0_d343.wav,Don't be too upset. It’s not the end of the world.,directive
+5_1_d344.wav,Send out an application through Job-wanted on the website.,directive
+0_0_d352.wav,"Excuse me, I bought this sweater yesterday. But when I got home and tried it on, I found it’s too small.",inform
+4_1_d353.wav,"Don't mention it. You know, we’re old friends.",inform
+4_1_d356.wav,Come on. It's on me.,directive
+6_1_d356.wav,Don't be silly. I'll take you anywhere you wanna go.,directive
+1_0_d360.wav,Let me weigh them for you. One-point-five dollar.,inform
+15_1_d365.wav,Try not to take on more than you can handle.,directive
+8_1_d366.wav,Please be quick.,directive
+0_1_d371.wav,"Look, George, There's the Great Wall.",directive
+7_1_d373.wav,Let's go there for lunch! I'm up for an adventure!,inform
+4_1_d375.wav,Please sit down. Help yourself just like you are at home.,directive
+0_0_d377.wav,"Excuse me, ma'am, the toilet in my room doesn't flush.",inform
+6_1_d381.wav,Don't worry. I'll let you know when we get there.,inform
+5_0_d382.wav,Don't make it too short. I just want a trim.,inform
+2_1_d384.wav,"Hurry up, the show is about to start.",directive
+4_0_d386.wav,Please double space it and print it out on the laser printer so I can read it easily.,directive
+6_0_d386.wav,Please type it in a formal style.,directive
+3_1_d387.wav,"Let me see. I am terribly sorry, sir. That should be eighteen dollars.",commissive
+11_0_d388.wav,Let's do it.,commissive
+2_0_d394.wav,Look at the ice there hanging from the eaves.,directive
+3_1_d395.wav,Don't worry. I'll call out the stops.,commissive
+6_1_d398.wav,"Rise and shine, sleepyhead.",directive
+13_0_d399.wav,Be careful.,inform
+7_0_d400.wav,Make it two.,inform
+6_0_d401.wav,Don't be so modest. I'm sure you can dance it very well. Let's dance it now.,directive
+0_0_d403.wav,Excuse me. I wonder if you can help me.,directive
+3_1_d403.wav,Please tell me where your daughter's home is.,directive
+5_1_d403.wav,Turn right at the second traffic light and you will see it on your left.,directive
+2_1_d405.wav,Let me give you a hand. The author is...,directive
+9_0_d408.wav,Got it.,inform
+4_1_d409.wav,"Put your luggage on the scale, please. Oh, your luggage is overweight.",inform
+15_0_d411.wav,Please accept this tip.,directive
+13_0_d414.wav,Don't worry about money. I'll treat you tonight.,directive
+3_0_d416.wav,"Umm a twin room, please.",directive
+4_1_d416.wav,"Hold on, please.... I'm afraid we're fully booked. The only room available at the moment is a suite.",commissive
+1_0_d421.wav,Check out please.,directive
+4_1_d430.wav,"Please wait a moment while I check availability. Ah, I'm sorry, sir. We only have a double room available now.",commissive
+1_1_d431.wav,Buy more and get more special discount coupons.,inform
+0_1_d433.wav,"Look, Jim. That man just fell down over there.",inform
+2_0_d440.wav,Umm why? We can leave school earlier that day.,question
+4_1_d441.wav,Stop acting like this. Say away!,directive
+5_0_d441.wav,Umm her standard for selecting life partner is a little higher. I can not accept that.,commissive
+8_1_d441.wav,Give her up.,inform
+4_1_d443.wav,Don't worry. All things are difficult before they are easy.,directive
+7_0_d446.wav,Let’s meet at the park at six.,inform
+8_1_d446.wav,See you then.,inform
+0_1_d453.wav,"Let me suggest this one. It's an excellent watch, it looks good, and it's only hundred dollars.",directive
+4_0_d454.wav,Umm the people don’t really work out there. They just stand around and talk all the time.,inform
+0_1_d455.wav,Guess what I've brought for you.,directive
+0_1_d457.wav,"Look at the catalogue, John. I think I want to get this red blouse.",directive
+2_0_d458.wav,"Come on, nothing can be that bad.",inform
+14_0_d458.wav,"Cheer up, Nada. You'll be fine.",inform
+4_0_d461.wav,Don't worry about it.,inform
+3_0_d464.wav,Give me a screwdriver on the rocks.,directive
+3_0_d479.wav,Let me see. Hundred dollars.,inform
+4_1_d486.wav,Please put your baggage on the scale.,directive
+0_0_d488.wav,"Tell me about your brother and sister, Sue.",directive
+2_1_d491.wav,Look at the view from the window.,directive
+10_0_d498.wav,Let me see. Yes. I will buy a plane for you. Umm….There is no traffic up there.,inform
+8_0_d501.wav,Let me show you. We have this rose color. We also have different shades of beige.,inform
+10_0_d504.wav,"Let me look. Let’s see … umm, they’ve got one in blue, green, pink, black... and white. Here you are.",inform
+0_1_d505.wav,Look! There's even a built-in handle to carry it with.,inform
+3_1_d518.wav,"Apply some of the ointment, and rub it into the skin.",directive
+6_0_d520.wav,Look! It looks as if it is going to rain.,inform
+3_1_d524.wav,Let me take your temperature with a thermometer.,directive
+7_0_d529.wav,Take much and you can have them six yuan per kilo.,inform
+9_1_d533.wav,Take care of yourself and remember to keep in touch.,inform
+2_0_d536.wav,Umm what about 'Farewell My Concubine'? I've been wanting to see it for a long time.,directive
+3_0_d540.wav,Please look at the sky. Don't you see the dark clouds? It's going to rain soon.,commissive
+15_1_d543.wav,Let me take a look at that. I can't stop the bleeding. We need to go to the hospital.,directive
+5_0_d548.wav,Let’s go downtown and pick up some fashionable clothes for you.,inform
+7_1_d549.wav,Don't mention it.,inform
+6_0_d550.wav,Don't worry. I’ve got some acid here. It will help dissolve the hair down there.,inform
+1_1_d551.wav,"Let me see. We’ll try, but I ’ m not sure that we can remove it.",commissive
+3_0_d559.wav,let me put it this way. I've never seen a professional sports game in a stadium because I could never get myself to walk to the top of the stairs to sit down.,inform
+5_0_d564.wav,Remind him to give you a locker tomorrow.,directive
+7_0_d564.wav,Umm no. You have to buy your own. You'll have to go to a hardware store to pick one up.,directive
+7_1_d567.wav,"Let me see. Yes, they are perfectly matched!",inform
+4_0_d568.wav,Umm what are they? I’ll be careful.,question
+5_0_d574.wav,Fill it up. I will have a tour tomorrow.,inform
+9_0_d574.wav,Give me a quart of light oil.,directive
+13_1_d575.wav,Don't mention it.,inform
+0_1_d576.wav,Let's have lunch together today.,directive
+1_0_d582.wav,"Let me check. Oh, oh! It’s at three:twenty five.",inform
+3_0_d584.wav,Wait. We have to return to our homeroom and wait to be dismissed.,inform
+5_0_d585.wav,Umm yes. I think I won't come here again next time.,inform
+7_0_d590.wav,Please have them wrapped. I'll take them away.,directive
+10_0_d604.wav,See you.,commissive
+15_1_d605.wav,Let's get started with this game then.,directive
+5_0_d607.wav,Go ahead.,commissive
+6_0_d609.wav,Take it easy. The time for slow dance is the middle part of the party.,inform
+7_1_d609.wav,Let's find a quiet seat and sit down for beverage.,directive
+9_1_d609.wav,"Listen, it is waltz. I like the elegant step of the old styles.",inform
+2_1_d611.wav,Let's get a soft drink.,directive
+4_1_d612.wav,Let's see how much the bill is.,directive
+5_0_d612.wav,Don't worry about it. Tonight is my treat.,commissive
+12_0_d613.wav,Let me take a look at your abdomen. Lie down on your back and bend your knees up. it seems like you have a duodenal ulcer.,directive
+6_1_d615.wav,See you tonight.,commissive
+3_1_d621.wav,Let me see.,directive
+14_0_d625.wav,See you then.,inform
+4_0_d630.wav,Hang on a tick and I'll check for you. I'm sorry umm we have no record of that arriving.,commissive
+0_1_d633.wav,"Excuse me, bags aren't permitted inside the supermarket.",inform
+4_0_d637.wav,Tell me why you didn’t come to see me tonight then.,directive
+8_0_d638.wav,"Laugh all you want, whatever. We need to get out of the heat.",inform
+10_0_d638.wav,Give me a break. It's not funny.,inform
+12_0_d638.wav,Hope so! Good thing is that autumn is just around the corner.,inform
+0_1_d639.wav,"Put on the helmet, please.",directive
+0_1_d643.wav,"Fill it up, please.",directive
+9_1_d644.wav,Make your selection and hope for the best. Vending machines aren't all that reliable.,directive
+3_1_d645.wav,Please fill out the form first.,directive
+0_1_d646.wav,Excuse me. Can I change my seat with you? I want to sit beside my friend.,directive
+3_1_d649.wav,Please show me your parcel order.,directive
+5_1_d649.wav,Let me check your parcel number. Song Ping's parcel number should be CP zero six two three zero two two one five CN. Here is your parcel.,inform
+7_1_d654.wav,Take care.,inform
+8_0_d663.wav,Charge it to whatever account you like.,directive
+7_1_d664.wav,Let's hurry. I'm starving!,directive
+5_1_d668.wav,Don't worry. We will look it for you right now.,directive
+2_0_d676.wav,Let's see. How about a nice shirt and tie? You can't go wrong there.,directive
+2_0_d678.wav,Umm everything has been fine for the past several months.,inform
+15_1_d678.wav,Don't worry. I'm sure our etiquette will become a natural part of your behavior as time goes by.,inform
+0_0_d681.wav,"Excuse me. I bought this shirt yesterday, but I would like to refund it.",directive
+1_1_d681.wav,"Give me the receipt, please.",directive
+8_0_d682.wav,"Let me see here... yes, there's one left.",inform
+0_0_d684.wav,Watch out! You're too close to the fire place.,directive
+1_1_d684.wav,"Don't worry, but my clothes are made of leathers.",commissive
+5_1_d684.wav,Be careful of yourself.,inform
+3_1_d693.wav,Listen to the sound of nature! It's like music.,inform
+9_0_d697.wav,"Get some snack foods, too, dude.",inform
+5_1_d700.wav,Please come in for a cup of coffee.,directive
+5_1_d703.wav,Umm your Rose is a fool.,inform
+0_0_d704.wav,Come on! It's time to go!,directive
+2_1_d705.wav,Please wait a moment. Let me check for you. The flight is FW seven one one and it arrives at ten a.m.,inform
+1_0_d706.wav,Let me see. That one goes for seventeen dollars.,inform
+4_0_d707.wav,"Be patient, miss. It'll just be a second.",directive
+4_0_d712.wav,Please.,directive
+5_1_d717.wav,"Wait a minute. This is your safe box key, don't lose it. You'll have to pay two thousand yuan if you lose the key.",directive
+1_1_d724.wav,"Hold on, please.",commissive
+1_0_d725.wav,"Come in, please.",commissive
+4_0_d729.wav,"Please give me two fried eggs, two orders of toast and a cup of coffee.",inform
+0_1_d732.wav,Excuse me! I don't have time to waste. I've been here almost one full hour!,inform
+8_0_d743.wav,"Write down your name and address, give me the key, and I will check it out.",directive
+5_1_d744.wav,Let's go.,commissive
+0_0_d749.wav,"Give me some glasses please, Jane.",directive
+5_1_d750.wav,Wait! Congratulations! You are the lucky customer of our anniversary celebration.,inform
+12_0_d750.wav,Got it. Bye for now.,commissive
+0_0_d756.wav,Look what you've done!,inform
+8_1_d760.wav,Please take a seat.,directive
+1_0_d762.wav,Don't worry. I'm almost finished.,inform
+7_0_d769.wav,Please keep the change.,directive
+0_1_d774.wav,Excuse me. You can't leave your car here.,inform
+3_0_d776.wav,Let me see. We should go to buy some fruit first.,inform
+13_0_d776.wav,Let's go to queue up. There are so many people in the lines.,directive
+6_1_d783.wav,See. Here is the money.,inform
+4_0_d785.wav,Umm my plans are to be there April fourteenth to the seventeenth.,inform
+4_0_d786.wav,Got it.,inform
+13_1_d788.wav,"Turn the lights off.Then, run the car and the heater only about fifteen minutes every hour.That will conserve the heat as long as possible.",directive
+16_0_d789.wav,"Let's meet for lunch at eleven thirty and afterwards, we can head over there.",directive
+0_0_d792.wav,"Come on, darling. We haven't got much time.",directive
+3_0_d793.wav,"Jump in, I'll give you a ride.",directive
+3_1_d795.wav,Let me take a look. Maybe I can figure it out.,directive
+1_0_d796.wav,Umm yes. I once worked in a small company for one year.,inform
+3_1_d798.wav,Believe it or not. Everybody is talking about it in the company.,inform
+8_0_d799.wav,Let me wear you this diamond ring.,directive
+4_0_d800.wav,Don't get ahead of yourself. Fat boy isn't yours yet.,commissive
+3_0_d808.wav,"Umm the food station was as crowded as usual. I waited for twenty minutes for my sandwich, and when I finally got it the chicken was underdone.",inform
+14_1_d811.wav,Let me think about it. What should I do? I think I will not give up.,inform
+11_0_d822.wav,See you then.,inform
+9_1_d831.wav,Check the local time before you call. You don't want to wake your friend up by accident.,inform
+5_0_d832.wav,Go ahead. It will be safe with me.,commissive
+0_0_d838.wav,"Wake up, Mary.",directive
+1_0_d841.wav,Use them from the outside in.,inform
+5_0_d841.wav,Let's look at our menus.,directive
+3_0_d842.wav,Don't worry. There are all kinds of things in the center.,commissive
+6_0_d855.wav,Don't worry about it. Try to look on the bright sight of things.,directive
+7_1_d856.wav,Forgive me. You're hundred percent correct. Allow me to transfer you to my supervisor.,directive
+6_1_d867.wav,Make it a few inches long.,inform
+0_1_d871.wav,"Come and meet our employees, Mr. Richards.",directive
+6_1_d877.wav,Let me take your temperature first.,directive
+3_1_d878.wav,Walk that way for about four blocks. The hotel's about two blocks north of there.,directive
+0_0_d880.wav,Guess what! I know something you don't know!,inform
+6_1_d885.wav,Be careful. You can't smoke here.,directive
+8_1_d887.wav,Have a try.,inform
+1_0_d888.wav,Umm about fifty miles.,inform
+12_1_d890.wav,"Let me repeat that back to you. That's zero, double seven, eight, seven, three, six, seven, double six, double eight.",inform
+3_0_d891.wav,Take two tablets every six hours.,directive
+0_0_d893.wav,"Give me a book please, Jane.",directive
+7_1_d894.wav,"Umm no, don't need, I can do myself.",inform
+7_1_d911.wav,"Give me that piece please, and a pond of meet, too.",commissive
+5_1_d913.wav,"Be careful. Don’t drop it! Don’t put it there, Sam. Put it here, on this shelf.",directive
+7_1_d922.wav,Wait a moment. It seems that your letter is overweight. Let me weigh it.,inform
+3_0_d924.wav,"Don't laugh at me, please. I'm serious. I've never been required to write this kind of report before, I only do the research reports.",inform
+8_1_d924.wav,"Let me see, no, you have to include more details about your final conclusion, for example, your experiences in dealing with some emergent events.",directive
+0_1_d929.wav,Excuse me. Check please.,directive
+4_1_d930.wav,Make sure that your customs forms are with you.,directive
+4_0_d932.wav,Let the men take the lead!,directive
+9_0_d934.wav,Come upstairs.,inform
+6_1_d936.wav,"See you later! ( after a while ) Good afternoon, Mr. Smith. I called you just now.",inform
+4_0_d937.wav,"Pay me, please.",directive
+18_0_d940.wav,Let me give you your confirmation number. It's seven five seven six three eight five. Thank you for choosing San Felice Hotel and have a nice day. Goodbye.,inform
+3_0_d949.wav,"Let me see them. Yes, they're OK.",commissive
+4_0_d950.wav,Umm our special tonight is lobster.,directive
+2_0_d951.wav,"Show me the black one, my size.",directive
+6_1_d956.wav,See you then.,inform
+7_0_d956.wav,See you.,inform
+5_1_d963.wav,Please handle the items carefully.,directive
+0_0_d968.wav,Look! There are playing The Matrix today.,directive
+4_0_d968.wav,"Come on. We are already here. Besides, I really wanna see this picture.",directive
+0_1_d969.wav,Come on in. Let me show you around. Here’s the living room.,inform
+8_1_d980.wav,Please say goodbye to the rest of the family for me.,directive
+1_0_d983.wav,Let's see. That would be one-sixty yuan a day a mile.,inform
+10_0_d986.wav,"Come on, Mary, you're a total catch. I bet he will call you. Don't worry.",inform
+5_0_d987.wav,"Hurry up, Sophie! Pass the ball to me. I'm good at shooting.",directive
+6_1_d987.wav,Look out. Catch the ball. You should dunk besides the three-point line.,commissive
+3_1_d1000.wav,Curse this oven! Curse it!,inform
+5_1_d1000.wav,Curse the worst oven in the world.,inform
+0_1_d1001.wav,Let's meet tonight at the Thai restaurant at about five.,inform
+1_1_d1006.wav,"Wait a minute, please.",commissive
+6_1_d1009.wav,See you later.,inform
+4_1_d1011.wav,Let me see. It's not an eagle. I think it's a vulture.,commissive
+0_0_d1015.wav,"Believe it or not, tea is the most popular beverage in the world after water.",inform
+13_1_d1015.wav,Let's go!,directive
+2_0_d1017.wav,Look at the heels. They are slanting.,inform
+0_1_d1021.wav,"Put all baggage on the conveyor belt. Walk through the detector age one at a time, please.",directive
+15_0_d1024.wav,Say hello to your friends for me.,directive
+3_1_d1026.wav,Come on. Tell me what happened.,directive
+0_1_d1034.wav,"Excuse me, sir.",inform
+3_1_d1035.wav,Bring us a bottle of Remy Martini and red wine.,directive
+4_0_d1035.wav,Wait a moment.,commissive
+0_0_d1037.wav,Excuse me.,directive
+5_1_d1037.wav,Take the subway. It’s one fifty dollars per ride. You can buy a petrol card at the station.,directive
+0_0_d1038.wav,"Come on, you must tell me everything about him.",directive
+17_0_d1042.wav,SAY two-o-one.,inform
+7_1_d1052.wav,"Don't be silly, forget about it.",commissive
+11_0_d1053.wav,"Wait a moment, please... Here is your bankbook. Keep it well please.",directive
+13_0_d1060.wav,Try to catch this bouquet then.,inform
+3_0_d1075.wav,Take the same number bus going in the other direction. There's a stop right across the street.,inform
+14_0_d1078.wav,"Try the lipstick as well. See, how fresh and charming you look.",directive
+11_1_d1084.wav,Let's see... That was about six years ago.,inform
+10_1_d1085.wav,Check your petrol situation.,inform
+14_1_d1085.wav,"Remember, no honking this time. The horn is only for emergencies!",inform
+2_0_d1090.wav,"Umm this channel has so many advertisements, and it doesn't have any good TV programs.",inform
+6_1_d1094.wav,See you tomorrow.,inform
+7_0_d1094.wav,See you!,inform
+7_1_d1098.wav,Let me see.,commissive
+2_1_d1102.wav,Let's line up. The steak is very inviting. I'll have it.,inform
+6_0_d1106.wav,Fill out this form and we will send you a note when we get the book.,directive
+8_0_d1106.wav,"Take the card, and fill in your name and library card number.",directive
+3_1_d1107.wav,"Think, in some way it is an act of God, but in another way, it is just caused by us.",inform
+2_1_d1113.wav,Try to be more careful in the future.,inform
+2_1_d1115.wav,Let's watch a movie or something.,directive
+0_1_d1117.wav,Please take a seat.,directive
+3_0_d1119.wav,"Don't worry about that. He said I can do that at spare time. Anyway, it's just a part-time job.",inform
+9_0_d1119.wav,Let's do it together.,directive
+1_0_d1124.wav,"Fill it up with regular, please.",directive
+13_1_d1135.wav,Let me write it down on a piece of paper for you. You can show to the taxi driver.,directive
+0_0_d1140.wav,"Excuse me. I'm your new neighbor, Jack. Umm I just moved in.",inform
+2_1_d1160.wav,"Look, darling! I can see a bench near that tree.",directive
+4_1_d1165.wav,"Please fill out this form, sir.",directive
+14_0_d1169.wav,Go and pick some stuff up. The price can always surprise foreign friends.,directive
+4_1_d1171.wav,Damn it! I think I'm going to miss the plane.,inform
+2_1_d1172.wav,Let's see what we'll take.,directive
+8_0_d1178.wav,See you Tomorrow.,inform
+11_1_d1181.wav,See the woman there? I dare say she hasn't got any eyes. How could she match the mauve gown with the green handbag? And all that jewelry!,inform
+4_1_d1183.wav,Come on! Don’t be silly!,inform
+1_0_d1186.wav,"Please give me this extra value meal, a red bean pie, and one order of vegetable salad.",directive
+5_1_d1187.wav,Please come again.,inform
+2_0_d1188.wav,Let's all go together then.,directive
+2_1_d1191.wav,"Please fill in the slip, stating the exact amount you wish to withdraw.",directive
+8_1_d1191.wav,"Wait a minute, please... Here's the cash.",commissive
+1_0_d1211.wav,"Don't mention it, let's go in.",inform
+6_1_d1211.wav,"Look at him, he's buff.",inform
+0_1_d1212.wav,"Please come in, Steven.",directive
+2_0_d1214.wav,Please clean up the table.,directive
+2_0_d1216.wav,Let me get this.,directive
+1_1_d1219.wav,Please feel free to stay as long as you want. You know you’re always welcome here.,directive
+3_0_d1220.wav,"Excuse me, but I want a pair of mittens.",commissive
+5_0_d1221.wav,"Umm yes. There are many places where the gorge is very narrow, with steep cliffs on both sides.",inform
+4_0_d1223.wav,Please let me know when we get there.,directive
+7_1_d1234.wav,Give me some time to think about it.,commissive
+4_0_d1242.wav,"Please fasten your seat belt, miss.",directive
+8_0_d1242.wav,Allow me to give you a hand.,directive
+7_0_d1244.wav,"Follow me, please.",directive
+6_0_d1256.wav,Please go to the tables over there for cold dishes and vegetables. The hot dishes are on the other side.,inform
+0_1_d1257.wav,Excuse me. I've been waiting for my main dish for quite a time.,directive
+1_1_d1262.wav,let's take the bus.,directive
+12_0_d1262.wav,Don't worry. Nothing bad will happen. I'll even buy your ticket for you.,directive
+14_0_d1262.wav,"See, now something good has happened to you on a bus trip!",inform
+0_0_d1270.wav,"Look, it's all water over the dam now. Let's leave it behind us.",directive
+2_0_d1276.wav,"Come here, please.",directive
+9_1_d1280.wav,"Let me ring you up. OK, sign here, please.",directive
+7_0_d1281.wav,"Please write down your name, address and the amount of your deposit here. And please choose a passcode of six numbers and confirm it.",directive
+5_1_d1282.wav,"Believe me, it's worth the price.",inform
+2_1_d1288.wav,Let's take him some of Kitty's best and make the pitch again.,directive
+1_1_d1289.wav,"Let me see. Oh, No. eleven.",inform
+3_1_d1290.wav,"Let me guess, Mocha, Mandheling, and Santos!",inform
+2_0_d1294.wav,Get in. I will take you there.,directive
+5_1_d1303.wav,"Show it to me, Please. Can you get me another? It's scratched a little bit here.",directive
+8_0_d1305.wav,Come on. I get nervous when I talk to girls.,commissive
+9_0_d1306.wav,"Go to gate number two, please.",inform
+11_0_d1306.wav,Don't mention it.,inform
+4_0_d1307.wav,"Watch our computer demonstration, please. You'll be convinced that our product is superior. ( After the demonstration )",directive
+13_1_d1309.wav,"Have a nice day, and thank you for shopping here.",inform
+0_1_d1311.wav,"Please show me that hat, please.",directive
+0_1_d1312.wav,"Come on, let's go for lunch, Gregory.",directive
+2_1_d1312.wav,Don't worry about it. It's on me.,directive
+8_1_d1312.wav,"Come off it, It's not that serious. You should DIY ( do it yourself ) sometime.",directive
+9_0_d1317.wav,"SEEK, please.",inform
+0_0_d1318.wav,"Turn on the TV, please.",directive
+0_0_d1321.wav,Please come in!,directive
+3_1_d1324.wav,Let's just say there could be some big changes around here.,inform
+2_0_d1329.wav,"Look, Danny. The Four Great Inventions!",inform
+1_0_d1331.wav,Let me see. Here it is.,commissive
+3_0_d1332.wav,Don't get all worked up over him. He's probably harmless.,directive
+5_1_d1340.wav,"Wait a minute. I made a phone call, but I never made a connection.",inform
+3_0_d1341.wav,"Give me two cokes also, please.",inform
+6_1_d1344.wav,Umm where? I don't see it.,question
+0_0_d1346.wav,Try it on in front of the mirror.,directive
+0_0_d1347.wav,Listen to this. Mary got married.,inform
+11_1_d1349.wav,Turn the chair I can see myself in the mirror.,directive
+14_1_d1350.wav,Don't worry. Bye.,commissive
+2_0_d1356.wav,Tell me about it.,directive
+3_1_d1359.wav,Go three blocks and turn right. It's right there.,directive
+9_0_d1366.wav,Don't worry. Everything will go well. I promise!,inform
+0_1_d1369.wav,"Bring me some toast, please.",directive
+0_1_d1371.wav,Excuse me.,directive
+2_1_d1374.wav,"Show me some of the latest fashion, please.",directive
+5_0_d1376.wav,"Let me think... Umm, accounting, finance, something like that.",inform
+10_0_d1379.wav,Try a Stinger. It has lime juice and grenadine over ice.,commissive
+14_0_d1379.wav,Enjoy yourself.,inform
+14_0_d1386.wav,Please show me your receipt again.,directive
+3_0_d1391.wav,Forget it. It’s my pleasure. You mean a lot to me.,inform
+9_1_d1394.wav,See you tomorrow.,inform
+5_0_d1395.wav,"Listen, I'd better get back to the grindstone.",inform
+1_0_d1396.wav,Please I'd like a ticket to New York.,directive
+8_0_d1404.wav,"Buckle up the belt, please.",directive
+9_1_d1404.wav,Let's go.,commissive
+2_0_d1417.wav,"Umm the rest of us will have this today's special, please.",inform
+11_1_d1419.wav,Let me help you make one this year.,directive
+4_0_d1420.wav,Let me know if there's anything I can do.,inform
+2_1_d1425.wav,Do more exercises after you are healthy.,directive
+2_0_d1427.wav,Got it. Umm it's so troublesome to have western food. I've been learning the table manners for hours but still can't really get it.,commissive
+14_0_d1427.wav,Don't forget about the dessert.,directive
+2_0_d1429.wav,Let me help pay for gas.,directive
+8_0_d1436.wav,"Let me see. It's fifty seven dollars, twenty cents, including tax.",inform
+14_0_d1436.wav,"Please fill out this form, also please write the value of the items in this space.",directive
+5_1_d1437.wav,"Forget it, there is no use crying over the spilled milk.",inform
+9_0_d1438.wav,"Don't get me wrong, I'm not saying he's like that all the time.",inform
+14_1_d1438.wav,Come on you're confusing me. Give it to me straight.,directive
+2_1_d1440.wav,Come on! I'll pay you back on Tuesday.,directive
+2_0_d1441.wav,"Let me have a look. Oh, the watch’s battery is worn down.",inform
+15_1_d1446.wav,Hope to see you again. We will provide the best service.,inform
+1_1_d1447.wav,Don't think about it!,inform
+7_0_d1448.wav,Please sign here.,inform
+6_1_d1449.wav,Let me see. En.. just a minute. Here it is. I need your signature on this note.,commissive
+8_1_d1449.wav,Drop it in the mail box mark out of town at that corner.,inform
+6_1_d1458.wav,Please try the shop there. They might have them.,inform
+13_0_d1462.wav,"See you at seven fifteen, Saturday.",inform
+9_1_d1463.wav,See you.,inform
+13_0_d1468.wav,Umm the Redskin’s quarterback just threw a touchdown pass for seven points. We’re losing again.,inform
+2_0_d1472.wav,Let's stop and have a look.,directive
+3_1_d1472.wav,Don't waste time.,commissive
+10_0_d1474.wav,"Please go ahead, I am listening.",commissive
+16_0_d1474.wav,Don't worry. I will build your deck with a simple but classic look.,inform
+8_0_d1475.wav,"Umm nothing special. Food, drinks, and Daniel's kangaroo toys.",inform
+1_0_d1478.wav,"Take your mind off it. Look, Crys. This magazine is on China's top ten beauties!",directive
+4_1_d1478.wav,Umm the mag says she's one sixty five centimeters tall and thirty eight kilos. If only we could be that thin then...,inform
+7_0_d1478.wav,Look at this girl's gray dress.,inform
+0_1_d1479.wav,Excuse me.,inform
+5_1_d1480.wav,Leave the cup in the cubby in the restroom. Just close the cubby door and walk away.,directive
+1_0_d1484.wav,Umm nothing really. I think I've had a few too many coffees.,inform
+13_0_d1484.wav,Try not to let it bother you too much.,directive
+3_0_d1488.wav,Let me show you.,directive
+5_0_d1488.wav,"See, it's right over there.",inform
+3_1_d1498.wav,Come over and visit when you have time.,directive
+1_0_d1520.wav,Give me a minute.,inform
+1_1_d1525.wav,Let me see. It depends.,inform
+7_1_d1525.wav,Take a bus then. It will only cost you five dollars.,directive
+2_1_d1529.wav,Please try these on.,directive
+7_1_d1531.wav,"Relax, those buses run every ten minutes, so we have plenty of time.",inform
+5_0_d1532.wav,Come here. Let me introduce some friends to you.,inform
+7_0_d1536.wav,"Hold on, please.",directive
+2_0_d1539.wav,"Come on, Mary. This is America. You make your own decisions here.",directive
+5_1_d1539.wav,"Tell you what, give me your phone number.",inform
+7_1_d1539.wav,Got it. I'll call you later tonight and we can talk about what to do on Saturday.,inform
+1_0_d1543.wav,"Umm yes, on Monday.",inform
+0_1_d1547.wav,Excuse me.,inform
+5_1_d1548.wav,Have a nice holiday!,inform
+14_1_d1554.wav,Have a pleasant stay.,inform
+4_0_d1555.wav,Come on. I know Li Lin is there. Let me talk to her.,directive
+2_1_d1561.wav,"Excuse me, sir. This is your passport.",inform
+10_1_d1561.wav,"Calm down, sir. You are creating a commotion.",directive
+0_0_d1565.wav,Excuse me. We're leaving today. I'd like to pay our bills now.,directive
+6_0_d1565.wav,Please add to my account.,inform
+12_0_d1567.wav,Let me give you another ten dollars.,directive
+6_1_d1569.wav,"Sign here, please. You can appeal to the court within fourteen days. This slip has all the information you need. Please drive safely, sir.",directive
+1_1_d1572.wav,Go ahead.,inform
+3_1_d1572.wav,Come on. Don’t hesitate.,inform
+0_0_d1574.wav,Want to join me for a midnight snack? I need to grab something to eat.,question
+2_0_d1574.wav,let's go the food stall. There's a good one just around the corner.,directive
+7_1_d1574.wav,Help yourself.,commissive
+9_0_d1580.wav,Go ahead.,inform
+19_0_d1582.wav,"See you later, goodbye.",inform
+3_1_d1584.wav,Say hi to your parents for me. I hope to see them soon.,directive
+5_0_d1586.wav,"Don't tell me, socks.",directive
+6_1_d1593.wav,Come on. We're only switching two days. You can do legs on Friday.,directive
+3_0_d1595.wav,Please bring me some trifles and apple pies.,directive
+3_1_d1603.wav,"Come on, you sound like my Mom.Look at that, it's beautiful!",inform
+6_0_d1603.wav,Make sure you buy what you need and your clothes can be worn for various occasions.,directive
+9_1_d1604.wav,See you.,inform
+5_1_d1605.wav,Don't mention it. You can come whenever You are free.,inform
+2_0_d1606.wav,"Umm a large coke, please.",directive
+0_1_d1615.wav,Please pull your table down. It's lunch hour.,directive
+14_0_d1617.wav,Follow me. Make sure not to interrupt them.,directive
+0_1_d1618.wav,Come on. Plenty of rooms upstairs. Fares please!,directive
+1_1_d1620.wav,Don't worry about it.,inform
+3_1_d1621.wav,Please hop in.,commissive
+6_1_d1638.wav,Tell us how.,directive
+0_0_d1645.wav,Excuse me? Umm I didn't hear what you said.,directive
+11_0_d1649.wav,"Hurry, OK. It's dark out.",inform
+12_1_d1649.wav,"Don't worry, nothings going to happen. I'll be there real soon.",inform
+6_1_d1652.wav,Let's go then.,question
+4_1_d1653.wav,Don't play hard to get. The pay is good. You'd be working with Elvin again.,directive
+2_1_d1654.wav,"Get in, please.",commissive
+4_1_d1654.wav,"Don't worry, you'll be there plenty of time. That is it. Seven-fifteen dollars, please.",directive
+5_1_d1655.wav,"Umm no, but someone said he was in the men's room puking. Follow me!",inform
+2_0_d1656.wav,Wait a few minutes and I'll go there with you.,directive
+3_1_d1656.wav,Let's get a shopping cart.,commissive
+6_0_d1656.wav,Let's check out the fruit section first.,directive
+8_0_d1656.wav,"Look, nice fresh cherries! They are ripe and soft. I'll take some.",directive
+10_0_d1656.wav,Let's go to the snacks section. I want some chocolate and sweets.,directive
+5_1_d1661.wav,Tell me about Corollas.,directive
+4_1_d1665.wav,"Buy them now though, or they might not still be here tomorrow.",inform
+9_0_d1667.wav,Don't be so frightened. It's just a skill.,inform
+5_0_d1668.wav,"Stop being such a baby. If it really hurts that much, just let them knock you out.",directive
+4_0_d1669.wav,Let me see a doctor.,directive
+6_0_d1672.wav,Don't sweat it. I know just the guy.,directive
+14_0_d1673.wav,Wait a minute! My uncle lives in Beijing and he lives very close to the theatre. I'll telephone him,directive
+10_1_d1675.wav,Let me see. It's not fiction. It's biography.,directive
+2_0_d1676.wav,Let's put it over there.,directive
+3_1_d1676.wav,Let's go to work. We want to have the tree ready to light up by evening.,commissive
+4_0_d1676.wav,Let's string the lights first. Then we won't have to mess up the decorations.,directive
+5_1_d1676.wav,"Hand me some globes and paper flowers, I'll put them on these top branches.",directive
+7_1_d1676.wav,Let's switch the lights on.,directive
+3_0_d1680.wav,"Let me have a look. You're very lucky because the cut is not deep. First, I'll clean up the wound and then dress it.",inform
+5_0_d1680.wav,Take it easy. It's not serious. You should keep the wound very clean. Don't do strenuous exercises until your wound is healed.,directive
+3_1_d1682.wav,Come here and I will measure you.,directive
+4_1_d1683.wav,"Pick up a wood and hold it like this, interlocking your fingers.",directive
+6_1_d1683.wav,"Position yourself, swinging the club, watch the ball and hit it as hard as you can.",directive
+9_0_d1683.wav,Got it.,commissive
+11_1_d1684.wav,Don't cut into them until you can feel that they're soft on the outside.,inform
+5_1_d1693.wav,Please hurry.,directive
+1_0_d1695.wav,Give me a little while longer.,inform
+5_0_d1705.wav,Round about seven.,inform
+8_1_d1707.wav,Don't mention it.,inform
+3_0_d1709.wav,Don't be silly.,commissive
+8_0_d1714.wav,Tell me what they taste like.,directive
+2_1_d1722.wav,Please take me to the Honging Hotel.,directive
+4_1_d1728.wav,"Wait for a minute, Mr. Brown, a single room with bath from today to the fifteenth.",directive
+7_0_d1729.wav,"Check, please.",directive
+5_0_d1744.wav,Don't mention it.,inform
+3_0_d1749.wav,Get your hair done at a good hair saloon. Umm tell them you are going for a job interview.,directive
+5_0_d1749.wav,Buy a decent suit.,directive
+7_1_d1752.wav,"Let me see. Ah, yes, I've been to England, France, Germany, Italy and now I've been in Spain.",inform
+16_1_d1753.wav,Don't mention it.,commissive
+4_0_d1757.wav,Let's keep in touch.,directive
+6_1_d1758.wav,"Come on, guy. Maybe she isn't your right person.",inform
+0_1_d1762.wav,"Come on, you are left behind!",inform
+7_0_d1764.wav,"Take-out, please.",inform
+4_0_d1766.wav,"Umm your seat is in cabin Number five, the upper deck. It’s near amid ship.",inform
+0_1_d1767.wav,Let's do something outdoors today.,directive
+2_1_d1775.wav,"Bring me a cup of coffee, please.",directive
+4_0_d1778.wav,Slide your card through the card ID pad and punch in your PIN.,directive
+0_0_d1789.wav,"Excuse me, I wonder if you can help me.",directive
+0_0_d1796.wav,"Excuse me. I am looking for a book called Little Women, but I can't find it anywhere.",directive
+1_1_d1796.wav,Let me see. I am sorry we just have sold it out.,commissive
+10_0_d1798.wav,Don't worry. You won't be sitting there by yourself.,inform
+3_1_d1803.wav,Let me try it on. I like that color.,directive
+3_1_d1804.wav,"Let me have a look. Well, it lists some shows that will be on next week.",inform
+14_0_d1804.wav,Please do that. I can't wait to come back again. The performance must be really amazing.,commissive
+8_1_d1807.wav,"Let me take your blood pressure. You look anemic. Well, Mr. Brown, I'm happy to say it's nothing serious. You're just a little run-down from overwork.",inform
+4_0_d1809.wav,Don't worry. I'm not much of a dancer myself.,inform
+0_1_d1817.wav,"Take me to this address, please.",directive
+2_0_d1822.wav,Use this lipstick and it will make your lips shine!,directive
+6_0_d1829.wav,"Let me try. Oh, I missed!",inform
+7_1_d1829.wav,Throw the ball up high.,inform
+0_0_d1833.wav,Don't worry. I'm sure you'll do better next time.,inform
+7_1_d1842.wav,Don't be silly! I know how to use knives and forks.,inform
+2_0_d1843.wav,Let's make it the first item of business in our next meeting.,directive
+12_1_d1847.wav,See you. Have a good journey.,inform
+2_0_d1849.wav,Admit it. You just think of Mussolini.,inform
+1_0_d1855.wav,Let me guess. You want to watch the History Channel again!,question
+4_1_d1855.wav,"Look, it's starting!",inform
+3_0_d1856.wav,"Please tell your name, company and the nature of your business.",directive
+1_0_d1857.wav,"Come on, just a little piece.",inform
+7_0_d1857.wav,"Come on, you are making too big deal out of this.",inform
+1_1_d1858.wav,Open the door. It's me. I can't find the key.,directive
+2_0_d1862.wav,Let's go out and have a look.,directive
+4_0_d1862.wav,"Look at the snow, it's so beautiful.",inform
+5_1_d1864.wav,Take a few days off from work and don't wear yourself out.,directive
+7_1_d1869.wav,See you.,inform
+7_0_d1870.wav,Please turn right at the traffic lights.,inform
+10_0_d1871.wav,Make it Thousand Island.,inform
+4_1_d1882.wav,Please use the phone.,directive
+0_0_d1885.wav,"Let me see your passport, please.",directive
+2_0_d1886.wav,Get on the phone right now. It might not be too late.,directive
+1_0_d1887.wav,Don't be that negative.,inform
+4_1_d1887.wav,Don't be that negative.,inform
+3_0_d1888.wav,"Help you in the kitchen, I don’t feel like it.",commissive
+3_1_d1891.wav,Chill out. It's just Kenny from South Park.,inform
+6_1_d1893.wav,Let me show you. We have six colors.,inform
+2_0_d1896.wav,"Please, honey, I have made proposals to you fifteen times.",directive
+3_0_d1899.wav,Teach me Cantonese and I'll pull some strings to get a trade with you next time around.,directive
+2_0_d1904.wav,"Excuse me, Miss. My friend is sick.",directive
+10_1_d1905.wav,Please get a mug shot in the next room.,directive
+18_1_d1916.wav,"Leave your phone number, and I will give you a call if the price gets reduced.",directive
+5_1_d1920.wav,Put it this way – it wasn’t cheap.,inform
+7_0_d1925.wav,"Say, kid, keep on practicing, you're sure to be a first-class swimmer.",inform
+13_0_d1928.wav,"Do it, please.",directive
+10_0_d1929.wav,"Follow me, please.",directive
+0_0_d1931.wav,Excuse me! What time is it? My watch stopped.,question
+1_1_d1931.wav,Let me see. It's nine.,inform
+5_1_d1932.wav,Please wait for us even if we're a little late.,directive
+7_1_d1932.wav,See you then.,inform
+1_1_d1934.wav,Umm one Big Mac and French Fries.,inform
+3_1_d1934.wav,"Give me one coke, please.",inform
+0_0_d1938.wav,Excuse me.,directive
+0_1_d1940.wav,Pardon me. Please speak a little louder.,directive
+15_1_d1942.wav,Umm no problem.,commissive
+1_0_d1944.wav,Come in please.,inform
+4_1_d1944.wav,Let me see. En.. it's right now. You can try it.,directive
+1_1_d1945.wav,Please dissolve the powder in hot water. Soak your hand or foot in it for twenty minutes twice a day.,directive
+3_1_d1945.wav,"Put the eye-drop into your right eye four to six times a day, one to two drops each time.",directive
+1_1_d1946.wav,"Take me to the center station, please.",directive
+7_1_d1972.wav,Let's go sit in the back. All the cool kids do.,directive
+1_1_d1974.wav,Go along this street to the traffic lights.,inform
+14_0_d1976.wav,"Have a good time. Next time you're free, give me a call and we'll go play poker.",inform
+15_1_d1976.wav,See you later.,inform
+6_0_d1980.wav,"Come on, dear! You forgot it, too.",inform
+12_0_d1980.wav,Come on! Three's a crowd!,commissive
+0_0_d1981.wav,"Come on, Mary. We have to do the laundry.",directive
+3_0_d1986.wav,"Let's buy some flowers, and pay her a visit",directive
+5_0_d1989.wav,Umm about three hundred a month.,inform
+4_0_d1990.wav,"Show me your document, please.",directive
+6_1_d1997.wav,Let me see.. um. Gone With the Wind. It is on at six cinemas on Saturday night.,inform
+11_0_d2002.wav,Come on. Two is company.,commissive
+7_1_d2010.wav,Let me go and get that for you.,commissive
+5_0_d2012.wav,"Come with me, please.",commissive
+2_0_d2013.wav,Please think it over.,inform
+4_0_d2013.wav,"Come on, dear. I know you mustn’t forget it.",inform
+9_0_d2018.wav,See you.,commissive
+5_1_d2020.wav,"Take the next right. Drive about one click further, and you ’ ll see the entrance of the highway to the Great Wall.",inform
+0_0_d2023.wav,"Excuse me. Umm I'd like to check out, please.",directive
+5_0_d2025.wav,Hold on. Just five minutes.,directive
+1_1_d2027.wav,"Give me ten yuan, your ID card and a photo of you please.",directive
+1_1_d2028.wav,"Give me a Big Mac, a small order of French fries and umm a medium Coke.",inform
+3_1_d2032.wav,Don't worry. I know about this.,directive
+0_1_d2036.wav,"Look, my clothes are wet.",inform
+13_0_d2044.wav,Let me know if you hear about any good bands playing on the weekends. I have more free time then.,directive
+3_1_d2052.wav,Look! Here it is!,directive
+3_0_d2053.wav,Umm nothing.,inform
+8_0_d2054.wav,See you.,inform
+3_1_d2060.wav,"Go straight then turn right, and you will see a big bus station there.",directive
+3_0_d2073.wav,"Hop in, I'll give you a ride.",directive
+2_1_d2079.wav,Wait a second. I want to watch Ally McNeal.,directive
+5_1_d2084.wav,Surprise me.,inform
+10_1_d2091.wav,"Hurry up, Sam. The kettle’s boiling.",directive
+4_1_d2092.wav,Don't worry. Umm I'm not much of a dancer myself.,inform
+6_1_d2094.wav,Let's go after work and take a tour of the facilities.,directive
+2_0_d2099.wav,Look! This window is open.,directive
+11_1_d2099.wav,Look around.,directive
+0_1_d2107.wav,Guess what? I've got great news!,question
+0_0_d2110.wav,"Look, that bamboo groves are flourishing. Let's go and play there.",inform
+2_0_d2110.wav,Please don't enter the bamboo groves. We're not allowed to go in.,inform
+16_1_d2111.wav,Forget about him. Come over to my house tonight. Let's get drunk.,directive
+14_1_d2123.wav,Let's watch the Canadian team. They have a good manager and a great coach.,directive
+5_0_d2124.wav,Forget it! We seemingly need to gather money little by little.,inform
+1_0_d2126.wav,Turn right at the second crossing and then go straight for two blocks.,inform
+0_1_d2130.wav,"Excuse me, Mr. Li. I have something to discuss with you.",directive
+2_1_d2131.wav,Don't remind me of that. This would be the last time I cut any classes for a basketball game.,inform
+3_0_d2131.wav,Come on. Don't be so hard on yourself. Enjoy your life.,directive
+6_1_d2131.wav,"Come on, eighteen points already, they are never gonna catch up.",inform
+9_0_d2131.wav,"Wait, that guy, I know him. He is just a bench warmer.",inform
+6_0_d2134.wav,Let's play other game.,directive
+4_0_d2135.wav,"Take care, honey. I am always expecting you.",inform
+6_0_d2138.wav,Let me see it.,directive
+5_1_d2139.wav,Come on. Here is for enjoying and exciting.,inform
+1_1_d2142.wav,Go to gate eighteen. The plane is boarding now. You should hurry up.,inform
+1_1_d2155.wav,Go ahead. Waste your money.,directive
+1_1_d2156.wav,Don't you know that? It's panda.,question
+5_1_d2162.wav,Let me see. Eleven yuan.,inform
+15_1_d2164.wav,"See you, Frank.",inform
+8_0_d2165.wav,See you.,inform
+1_0_d2171.wav,Come in please.,commissive
+6_1_d2180.wav,Take care! Don't slip on the ground.,inform
+3_0_d2182.wav,Turn to the next window and they will help you find one.,inform
+1_1_d2186.wav,Let me help you.,commissive
+10_0_d2197.wav,Hope the restaurant is still there.,commissive
+13_1_d2197.wav,Don't worry. We can call a cab. It'll be alright.,inform
+2_0_d2200.wav,"Umm the train to New York City... here it is... daily except Sunday at ten thirty, twelve twenty and fifteen ten.",inform
+10_0_d2205.wav,let’s go together.,commissive
+5_1_d2207.wav,Come on. Things are not so bad. Boys can learn to use the computer through games.,inform
+16_1_d2210.wav,Got it. Thanks for calling. Bye.,inform
+2_1_d2212.wav,Need a gift for your girlfriend or wife...,directive
+0_1_d2215.wav,"Excuse me, waiter, umm, I would like to have some wine before the main course.",directive
+0_0_d2223.wav,Let's go to the animal shelter.,directive
+3_0_d2224.wav,Stop producing cigarettes.,inform
+3_1_d2225.wav,Take care of yourself and don't forget to keep in touch.,inform
+1_1_d2228.wav,"Let me see. Yes, here you are.",inform
+1_0_d2240.wav,"Give me six-piece chicken nuggets, a large fries, and a large coke.",directive
+5_1_d2242.wav,Take it three times a day.,directive
+4_0_d2251.wav,Please make a single-breasted.,directive
+7_1_d2251.wav,"Let me see, with padding and lining cloth, it comes to three fifty seven dollars altogether.",inform
+5_0_d2252.wav,Take care! Don't slip down to the ground.,inform
+11_1_d2253.wav,Have a briefcase ready with all your interview materials in it for easy carrying.,directive
+3_0_d2256.wav,Go and try it on.,directive
+2_0_d2259.wav,Please rush me to the railway station,directive
+3_1_d2259.wav,Get in and close the door.,commissive
+4_0_d2268.wav,Look! they've taken your fur coat too.,inform
+8_1_d2281.wav,"Bring me an assorted cold dish, please.",inform
+0_0_d2283.wav,"Excuse me Miss, my friend is sick.",inform
+8_1_d2284.wav,"Wait for a moment, I'll come back soon.",inform
+6_1_d2286.wav,Please call us if you change your mind.,directive
+1_1_d2288.wav,Let's play some music! I feel like dancing.,directive
+4_0_d2288.wav,"Come on baby, let's dance!",directive
+3_1_d2305.wav,"Come on, Hugh! Tea is for wimps! Please, I need your help.",directive
+3_1_d2306.wav,"Let me see them. Yes, they’re OK.",inform
+4_0_d2307.wav,Umm my friends and I just got back from Bali.,inform
+13_1_d2307.wav,"Umm no, but I do like snowboarding.",inform
+4_0_d2310.wav,Please mail this letter for me on your way to the store.,directive
+4_0_d2316.wav,Put it on the table.,directive
+8_0_d2316.wav,Bring those upstairs and put them in the bedroom.,inform
+10_0_d2316.wav,Give it to me. I need to use it.,inform
+11_1_d2317.wav,Have a nice nap.,inform
+5_1_d2318.wav,Bundle up. It's wet and rainy out there. Here's some soup.,directive
+10_0_d2319.wav,"Cheer up! Don't let me down. We all make mistakes, and that is life.",inform
+1_0_d2322.wav,Don't worry about it. Just leave it to the insurance companies.,inform
+2_0_d2324.wav,Let's not exchange any gifts at all.,directive
+4_0_d2324.wav,Hear me out. We can pool the money and give it to a family who could really use it!,inform
+5_1_d2326.wav,Please drop it at the front desk when you leave tie hotel.,directive
+3_1_d2327.wav,Don't you dare tell me that...,inform
+11_1_d2327.wav,Trust you! You can't even handle simple plane reservations!,commissive
+2_1_d2328.wav,Get in. I'll take you.,directive
+5_1_d2331.wav,Go to window number eleven.,inform
+3_0_d2336.wav,"Please, call me John.",directive
+16_1_d2336.wav,See you.,inform
+15_1_d2341.wav,"Don't try everything at one time, please.",directive
+1_1_d2342.wav,Let's go to the lake and camp on the south side.,inform
+4_0_d2344.wav,"Come on. You know, you can never really win. The salesperson never loses. They make their living out of it.",inform
+10_0_d2344.wav,"Come on. They look so cheap. Something else, please.",commissive
+12_0_d2344.wav,Don't underestimate his taste. I don't think he'd like it.,commissive
+13_1_d2344.wav,Don't be so sure. He loves the vase I bought here last week.,inform
+5_0_d2351.wav,Please. Thank you so much for stopping.,commissive
+2_1_d2358.wav,Please send us your best offer and state payment terms and time of shipment.,directive
+5_0_d2359.wav,Hope there is no traffic jam.,inform
+0_1_d2361.wav,Let's decide what to order.,directive
+0_0_d2367.wav,See? That wasn't so bad.,inform
+3_1_d2373.wav,Come on! Rest breads rust.,inform
+12_0_d2381.wav,"Forget it! That's what friends are for! Besides, I have a VIP card for a discount.",inform
+0_1_d2385.wav,Let’s move out of here. This apartment is too small.,directive
+7_1_d2388.wav,Run! They are thirsty for more!,directive
+8_1_d2390.wav,Don't worry. It's only ten to seven. You must have forgotten to set your watch back.,inform
+9_0_d2391.wav,Umm that’s right.,inform
+3_0_d2404.wav,Umm me too. But I think we can do something else for a change.,inform
+7_1_d2409.wav,Stick around and you'll get to know him better. He has a very unusual personality.,inform
+4_0_d2410.wav,Bring me a bottle of beer.,directive
+2_1_d2415.wav,Try me.,inform
+4_1_d2415.wav,"Take it easy, maybe tomorrow will be different.",directive
+6_1_d2415.wav,"Cheer up, I hope you'll feel better soon.",directive
+10_0_d2418.wav,"Wait! We have T-bone, rib eye, and sirloin steaks. They are very fresh! Just came from the slaughter house...",directive
+1_0_d2419.wav,"Umm the salmon is good toady, it's very fresh.",inform
+1_1_d2420.wav,Let's stop the car and enjoy it for a minute.,inform
+5_1_d2420.wav,Look behind us at the mountains! They're reflecting pink!,inform
+4_0_d2421.wav,Umm how about this one? It's graceful in style.,directive
+3_1_d2424.wav,Let me help you.,inform
+5_0_d2435.wav,Let's enter it!,directive
+8_1_d2435.wav,Let me ask the old woman in that reception office.,directive
+5_1_d2437.wav,"Look, this one matches our room and it's cheap.",commissive
+4_1_d2438.wav,Please put down the table in front of you. It's more comfortable that way.,directive
+1_1_d2446.wav,Take the A train south to the Liberty Ave. stop. You should be able to find it from there.,directive
+6_1_d2458.wav,Let me see. The offering price is near or at eighty eight dollars.,inform
+2_0_d2459.wav,"Give me your water and electricity bills, please.",directive
+8_0_d2460.wav,"See you on Thursday, then.",inform
+12_0_d2462.wav,Have a nice flight.,inform
+7_1_d2463.wav,Let's kick off our shoes to walk on the green flag stoned roads.,directive
+7_1_d2468.wav,Please get ready.,directive
+0_0_d2471.wav,Let's do something really nice for our family this Christmas.,inform
+4_0_d2476.wav,Push the red button on the mike to turn it on.,directive
+5_1_d2478.wav,"Run around the track. In the morning I run for an hour, and in the afternoon I run around the building.",inform
+2_0_d2486.wav,Give the mike to him.,directive
+4_0_d2486.wav,Be quiet. He is singing.,directive
+12_0_d2490.wav,Guess!,inform
+7_0_d2492.wav,Have a nice journey! Do give my regards to your parents.,inform
+10_1_d2496.wav,Be my guest.,commissive
+11_0_d2499.wav,Make it four.,directive
+4_1_d2506.wav,Please show me your passport and Residence Permit.,directive
+7_1_d2507.wav,Check and double check.,inform
+6_0_d2509.wav,Let’s just hope my teacher agrees.,inform
+5_1_d2514.wav,Forgive me darling. I'm very tired.,inform
+5_1_d2515.wav,"Please be careful with the suitcase, it's very heavy.",directive
+7_0_d2516.wav,Call us as soon as you get home.,inform
+2_0_d2519.wav,Look! The iron is still on.,inform
+4_0_d2519.wav,"Look at my nice blue shirt, there’s a big hole in it.",inform
+5_0_d2524.wav,"Please, just call me Tom.",directive
+4_1_d2525.wav,Keep your voice down. We'll talk more later. Right now I need to see Vince.,directive
+2_1_d2527.wav,Please fill out this form.,directive
+6_1_d2527.wav,"Let me check. Yes. Your thousand remittance, please.",directive
+1_0_d2537.wav,Don't feel like it. I'm broke.,commissive
+10_0_d2538.wav,"Don't worry, dear. I'm a great host. Now get some rest. Merry Christmas.",directive
+1_0_d2539.wav,Let me have a look.,inform
+2_1_d2539.wav,Try them if you like.,directive
