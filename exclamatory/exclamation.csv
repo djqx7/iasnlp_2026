@@ -1,0 +1,877 @@
+file_name,transcript,label
+0_0_d4.wav,"Good morning, Miss Wang. How beautiful you look today!",inform
+0_0_d127.wav,I don't know what to do about the people who live in the flat above me!,inform
+0_0_d137.wav,You didn't show up to my performance last night! Some kind of friend you are!,inform
+0_0_d189.wav,Taxi!,directive
+0_0_d207.wav,Wow! I can't believe I'm standing here!,inform
+0_0_d221.wav,Bonjour!,inform
+0_0_d365.wav,Good morning!,inform
+0_0_d368.wav,"I really don't know how to break this to you, but it’s eating me alive!",inform
+0_0_d456.wav,"Hello, Zhang lin! Fancy meeting you here!",inform
+0_0_d495.wav,I've got some great news for you!,directive
+0_0_d547.wav,What a hot day!,inform
+0_0_d609.wav,"How about going to dance this evening, Jane? You will find that the night life of this city is very interesting!",directive
+0_0_d632.wav,The weather in Beijing is just beautiful!,inform
+0_0_d636.wav,"OK, Hello!",inform
+0_0_d704.wav,Come on! It's time to go!,directive
+0_0_d721.wav,I have never seen so many flavors of ice cream in one place!,inform
+0_0_d756.wav,Look what you've done!,inform
+0_0_d758.wav,"Ashley, what a great dinner party!",inform
+0_0_d775.wav,Whoa! This is a massive flea market!,inform
+0_0_d788.wav,What are we going to do? I can't get the car out of this ditch. I'm stuck!,question
+0_0_d820.wav,"What an attractive blouse, You look so pretty in this blue dress!",inform
+0_0_d852.wav,Hello!,inform
+0_0_d880.wav,Guess what! I know something you don't know!,inform
+0_0_d892.wav,"Mary, it's good to see you!",inform
+0_0_d896.wav,"Whoa, look at all those ice cream choices!",inform
+0_0_d931.wav,What a great weekend that was!,inform
+0_0_d944.wav,How nice these sunglasses are!,inform
+0_0_d964.wav,They're here! Now that's speedy service! And they arrived within two days of each other!,inform
+0_0_d1078.wav,May I help you? Miss!,question
+0_0_d1089.wav,I’ve just found a mouse in the house!,inform
+0_0_d1144.wav,"My word, you do look ill!",inform
+0_0_d1181.wav,"What a nice dress, Jean. You look marvelous!",inform
+0_0_d1243.wav,"Hi, Sophie! Long time no see!",inform
+0_0_d1249.wav,Taxi!,directive
+0_0_d1266.wav,Yes! I finally lost that last five pounds I've been working on forever!,inform
+0_0_d1275.wav,Cheer!,inform
+0_0_d1282.wav,Great. The bed is exactly what I have been looking for!,inform
+0_0_d1321.wav,Please come in!,directive
+0_0_d1329.wav,There are so many people that the tickets are all sold out!,inform
+0_0_d1352.wav,Cool! Flashy red lines!,inform
+0_0_d1421.wav,What a nice uniform!,inform
+0_0_d1456.wav,You didn't tell me she was married!,inform
+0_0_d1483.wav,Hi! Do you know what's for dinner? I'm starving!,question
+0_0_d1497.wav,"Hey, Taxi. Over here!",directive
+0_0_d1503.wav,How nice these frames are!,inform
+0_0_d1509.wav,What a great weekend that was!,inform
+0_0_d1557.wav,Hello. Welcome!,inform
+0_0_d1601.wav,Oh! My mouth is on fire!,inform
+0_0_d1621.wav,Taxi! Taxi!,directive
+0_0_d1702.wav,Taxi!,directive
+0_0_d1730.wav,You look great!,inform
+0_0_d1891.wav,"Oh, my god!",inform
+0_0_d1909.wav,How beautiful the flower is!,inform
+0_0_d1914.wav,Stewardess!,inform
+0_0_d1915.wav,How beautiful the flower is!,inform
+0_0_d1921.wav,There are so many flavors of ice cream to choose from!,inform
+0_0_d1924.wav,Hello!,inform
+0_0_d1949.wav,"Umm I want to change rooms. In fact, I want a refund for tonight!",directive
+0_0_d2048.wav,Good afternoon!,inform
+0_0_d2060.wav,"Hello, excuse me!",inform
+0_0_d2084.wav,I'm famished! Let's get some grub!,directive
+0_0_d2158.wav,Merry Christmas!,inform
+0_0_d2196.wav,Hello!,inform
+0_0_d2203.wav,How happy you are! Next Monday is your wedding day. Congratulations!,inform
+0_0_d2216.wav,I hate this kind of weather!,inform
+0_0_d2217.wav,"Donna, you really shocked everyone at the party last night!",inform
+0_0_d2222.wav,I can’t believe it!,inform
+0_0_d2253.wav,"Mary, I will have an interview tomorrow. I am so excited!",inform
+0_0_d2259.wav,Taxi!,directive
+0_0_d2288.wav,You bet it is. And we got four thousand for our car space! Awesome!,inform
+0_0_d2374.wav,"Taylor, you're sweating up a storm!",inform
+0_0_d2388.wav,The mosquitos are biting me!,inform
+0_0_d2409.wav,Ahahah! What is that thing on your couch! It just moved!,question
+0_0_d2420.wav,That is the most beautiful sunset!,inform
+0_0_d2436.wav,Linda? Is that you? I haven't seen you in ages!,question
+0_0_d2442.wav,"Hello, Rebecca, fancy meeting you here!",inform
+0_0_d2463.wav,What a wonderful sight!,inform
+0_0_d2478.wav,I want to lose some weight!,inform
+0_0_d2508.wav,My stomach's growling again!,inform
+0_1_d10.wav,"Hello, Tom!",inform
+0_1_d71.wav,Excuse me!,inform
+0_1_d91.wav,"Bill, Happy Halloween!",inform
+0_1_d100.wav,"Good morning, Paul!",inform
+0_1_d116.wav,How slowly you drive!,inform
+0_1_d139.wav,"You're right--Italian! Ha! Ha! I was trying to trick you, but you didn't fall for it!",inform
+0_1_d296.wav,Happy new year!,inform
+0_1_d398.wav,"Hey, Jim. Wake up!",directive
+0_1_d446.wav,"Hi, Jason!",inform
+0_1_d487.wav,This bloody computer!,inform
+0_1_d491.wav,"Oh, no!",inform
+0_1_d493.wav,"Tom, we are in the restaurant now!",inform
+0_1_d564.wav,"Brad, wait!",inform
+0_1_d627.wav,It's very cold tonight!,inform
+0_1_d732.wav,Excuse me! I don't have time to waste. I've been here almost one full hour!,inform
+0_1_d741.wav,"Waiter, a menu please!",directive
+0_1_d755.wav,"Hey, that’s a very nice hairdo you’re wearing!",inform
+0_1_d823.wav,Ahhs! I'm beat!,inform
+0_1_d869.wav,Bob!,inform
+0_1_d881.wav,Steward!,directive
+0_1_d914.wav,Hello!,inform
+0_1_d942.wav,My mascara's waterproof!,inform
+0_1_d970.wav,Long time no see!,inform
+0_1_d972.wav,Good afternoon!,inform
+0_1_d1022.wav,"Morning, Bob. Fancy meeting you here!",inform
+0_1_d1092.wav,"Welcome, Ron, come on in!",inform
+0_1_d1183.wav,My goodness! You’re kidding!,inform
+0_1_d1248.wav,I decided to give it a go!,inform
+0_1_d1478.wav,I'm so hungry! I haven't late eaten all day!,inform
+0_1_d1506.wav,What a wonderful game!,inform
+0_1_d1532.wav,"Happy birthday, Aims!",inform
+0_1_d1618.wav,Come on. Plenty of rooms upstairs. Fares please!,directive
+0_1_d1647.wav,Welcome to our bar!,inform
+0_1_d1712.wav,Welcome!,inform
+0_1_d1762.wav,"Come on, you are left behind!",inform
+0_1_d1775.wav,"Boy, come here!",directive
+0_1_d1813.wav,I can't even imagine you snorkeling!,inform
+0_1_d1823.wav,What a beautiful sweater!,inform
+0_1_d1877.wav,This is exciting! Thank you so much!,inform
+0_1_d1917.wav,"Good morning, Mr. Jones!",inform
+0_1_d1939.wav,"And lightweight, too. It'll play for twenty hours on two AA batteries!",inform
+0_1_d1988.wav,"Good morning, Doctor!",inform
+0_1_d2014.wav,I want a refund!,directive
+0_1_d2057.wav,My baggage is missing!,inform
+0_1_d2081.wav,"Here we are, Ryan! This is where we're going to celebrate!",inform
+0_1_d2107.wav,Guess what? I've got great news!,question
+0_1_d2111.wav,"Hello, Anna speaking!",inform
+0_1_d2159.wav,What a beautiful day!,inform
+0_1_d2325.wav,"Umm, Waiter!",directive
+0_1_d2375.wav,What!,question
+0_1_d2517.wav,"Hey, look out!",directive
+0_1_d2521.wav,"Hey, Mr. Brown. How are you? Look at that smile on your face!",question
+0_1_d2529.wav,"My dear, it's five flights up!",inform
+1_0_d10.wav,"Hello, Skylar!",inform
+1_0_d12.wav,What a shame!,inform
+1_0_d212.wav,You don't know what you are asking!,commissive
+1_0_d243.wav,How terrible!,inform
+1_0_d390.wav,"Eighty-five dollars. If my bid is the highest after three more days, I win! It's fun!",inform
+1_0_d450.wav,You scared me!,inform
+1_0_d491.wav,How dreadful!,inform
+1_0_d566.wav,"Wow, what a great burd!",inform
+1_0_d603.wav,Congratulations. That's great!,inform
+1_0_d657.wav,That's great!,inform
+1_0_d661.wav,Yes. What a good job we have done!,inform
+1_0_d746.wav,"To be honest, I'm really fed up with work at the moment. I need a break!",inform
+1_0_d823.wav,What happened to you? You look like you got hit by a tornado!,question
+1_0_d946.wav,"Oh, great!",inform
+1_0_d1022.wav,"Morning, Jenny. Haven't seen you for ages!",inform
+1_0_d1076.wav,Lamb and beef. It will get even tastier when we add the veggies!,inform
+1_0_d1092.wav,"Hi, Malia! What a nice home!",inform
+1_0_d1200.wav,"Oh my gosh, how exciting!",inform
+1_0_d1258.wav,It's my pleasure!,commissive
+1_0_d1391.wav,I’m glad you like them. Happy birthday!,inform
+1_0_d1440.wav,No!,commissive
+1_0_d1478.wav,"Take your mind off it. Look, Crys. This magazine is on China's top ten beauties!",directive
+1_0_d1729.wav,"Oh, yes!",inform
+1_0_d1826.wav,"I agree, I think that that would be perfect!",commissive
+1_0_d1846.wav,"Yep. And it breathes, see!",inform
+1_0_d1855.wav,Let me guess. You want to watch the History Channel again!,question
+1_0_d1860.wav,You're really sporty!,inform
+1_0_d1917.wav,"Good morning, Miss Bell!",inform
+1_0_d1937.wav,What a great idea!,commissive
+1_0_d1939.wav,Cool! The sound is great. These earphones are awesome!,inform
+1_0_d2031.wav,It's Clive of course. Where did you come from? Every girl knows Clive!,inform
+1_0_d2192.wav,Very interesting!,inform
+1_0_d2269.wav,Not really!,inform
+1_0_d2351.wav,No! Umm my tour bus got a speeding ticket not ten minutes ago. Now my engine is on fire!,inform
+1_1_d103.wav,"Yes. Look at these historical relics here, amazing!",inform
+1_1_d108.wav,Send an ambulance fast! My husband is having a heart attack!,directive
+1_1_d297.wav,Let's plan a surprise party for him!,directive
+1_1_d333.wav,"Yes, I just bought a new car, I drive to work everyday!",inform
+1_1_d498.wav,"So, please!",inform
+1_1_d583.wav,I've said you will enjoy your life here!,inform
+1_1_d636.wav,Hello!,inform
+1_1_d683.wav,"You've done a lot, my darling!",inform
+1_1_d707.wav,"No, but this is an emergency! Please!",inform
+1_1_d734.wav,Isn't it just great? I just knew I'd win!,question
+1_1_d800.wav,I'm back. My bid on the Buddha is still the highest!,inform
+1_1_d805.wav,I am cooking now!,inform
+1_1_d945.wav,"No, this is just my appetizer... this is my lunch!",inform
+1_1_d964.wav,What are you waiting for? Rip‘em open!,question
+1_1_d977.wav,"At least, it is better than my boxed lunch at work. I'm so fed up with the bland food. Thank you for having lunch with me!",inform
+1_1_d1000.wav,"Oh, my bread!",inform
+1_1_d1044.wav,That's a wonderful way to celebrate this grand old library!,inform
+1_1_d1069.wav,What a good idea!,commissive
+1_1_d1206.wav,I sure did. You're in luck! It's supposed to snow all week in the mountains!,inform
+1_1_d1243.wav,"Hi, Alex!",inform
+1_1_d1275.wav,Cheer!,inform
+1_1_d1333.wav,What is that? It looks like something from a swamp!,question
+1_1_d1347.wav,Is she really? I can’t believe it!,question
+1_1_d1356.wav,I had no idea how seriously that country takes soccer!,inform
+1_1_d1445.wav,"It looks like you have to buy tickets for us, Jason. And we're not going to see an action movie!",inform
+1_1_d1447.wav,Don't think about it!,inform
+1_1_d1508.wav,"Two, I hope that by telling me about them you are planning on taking me!",inform
+1_1_d1568.wav,"Actually, I don't think I can eat another bite!",commissive
+1_1_d1622.wav,"Yeah, I'm glad that we didn't have to wait long. I'm starving!",inform
+1_1_d1822.wav,Almost. I have to get dressed. It's a formal party and I have special party make up!,inform
+1_1_d1891.wav,What!,question
+1_1_d2047.wav,What a good idea!,commissive
+1_1_d2203.wav,Thank you!,inform
+1_1_d2304.wav,So do I. The sun... the sand... the ocean!,inform
+1_1_d2327.wav,What!,question
+1_1_d2329.wav,"Oh, dear!",inform
+1_1_d2398.wav,I can’t sleep or eat. I have a really bad pain in my tooth!,inform
+1_1_d2406.wav,I don't understand. You don't even know the 'friends' you are 'talking' to!,inform
+1_1_d2436.wav,Hi George! It's good to see you!,inform
+1_1_d2454.wav,My tooth is killing me!,inform
+1_1_d2478.wav,So do I!,inform
+2_0_d127.wav,They're incredibly selfish. They're always up until the wee hours of the night playing their music so loudly. I have to wear earplugs to fall asleep!,inform
+2_0_d207.wav,I'm standing in front of an exquisite work of art!,inform
+2_0_d221.wav,"I said, Bonjour!",inform
+2_0_d256.wav,"You know me, if I don't like everything on the menu, I don't go back to the restaurant!",inform
+2_0_d318.wav,"Hey, it is! Umm a lot of people like that movie!",inform
+2_0_d333.wav,"Great! When you become a new driver, you would better drive as carefully as possible!",directive
+2_0_d365.wav,"Umm I slept like a baby. I fell asleep right away last night, didn't wake up once, and didn't have any nightmares!",inform
+2_0_d475.wav,"He completed the first two hundred, four hundred double in Olympic history!",inform
+2_0_d500.wav,"Well, I've grown to like second-hand things. I wouldn't have gotten through university without them!",inform
+2_0_d502.wav,Yes. It looks terrific!,inform
+2_0_d648.wav,What a nostalgic food!,inform
+2_0_d658.wav,"Just relax. With me as your maid of honor, everything will be fine!",inform
+2_0_d680.wav,Or just stuff the whole thing in your mouth at once!,inform
+2_0_d684.wav,Really? That's wonderful!,question
+2_0_d753.wav,I'm knee-deep in cockroaches!,inform
+2_0_d756.wav,"Yes, and hurry up!",inform
+2_0_d788.wav,Umm I know. This is terrible. What can we do? This snow doesn't stop falling!,question
+2_0_d892.wav,I am so glad that you decided to stop by!,inform
+2_0_d898.wav,Nine!,inform
+2_0_d902.wav,Wow. She looks good for having had that many kids. She's pregnant and wearing Prada!,inform
+2_0_d932.wav,"Just follow the foot movements. Brush left, brush right... yeah! That's it!",directive
+2_0_d945.wav,A candy bar for an appetizer and a piece of pie for lunch! That's all junk!,inform
+2_0_d1079.wav,You're kidding! You've always hated cooking!,inform
+2_0_d1222.wav,Oh! I hate rainy days!,inform
+2_0_d1245.wav,Umm what took so long? I thought your flight was supposed to arrive three hours ago!,question
+2_0_d1329.wav,"Look, Danny. The Four Great Inventions!",inform
+2_0_d1424.wav,I'm the hazardous one here. I made three people fall over!,inform
+2_0_d1456.wav,I got carried away. I made such a fool of myself. They were both laughing at me!,inform
+2_0_d1508.wav,"Of course! And here's the best part, they are court side seats!",inform
+2_0_d1601.wav,I need more water!,directive
+2_0_d1814.wav,"I knew there would be a few choices, but this selection is huge!",commissive
+2_0_d1822.wav,Use this lipstick and it will make your lips shine!,directive
+2_0_d1836.wav,What are you talking about?! He’s passed every drug test he’s taken!,inform
+2_0_d1891.wav,That's the cutest little doll I've ever seen in my life!,inform
+2_0_d1895.wav,"Er, I'm gonna go with salt and sauce!",inform
+2_0_d1949.wav,Cockroaches have taken over my room!,inform
+2_0_d2222.wav,"Yes, but I bet two-hundred dollars on the Cougars!",inform
+2_0_d2268.wav,"I am afraid your diamond bracelet has gone, darling!",inform
+2_0_d2307.wav,Peak periods always entail hours of queuing. At least you got a nice tan though!,inform
+2_0_d2512.wav,Avril Lavigen!,inform
+2_1_d126.wav,"Oh, it is not easy to learn!",inform
+2_1_d263.wav,"Umm I think sound is even more important! Guns, bombs, sirens--that's what makes a movie exciting!",inform
+2_1_d271.wav,Copycat!,inform
+2_1_d315.wav,"Yes, that would be good!",commissive
+2_1_d347.wav,What? You're overcharging me!,inform
+2_1_d390.wav,We'll see how much fun it is after they take all your money!,inform
+2_1_d487.wav,My computer just crashed again for the third time today!,inform
+2_1_d505.wav,"Oh, yes, it does. Look, here it says that the CD-ROM is built-in!",inform
+2_1_d732.wav,Unbelievable! Parking in this city is such a nightmare!,inform
+2_1_d755.wav,"Uh, you did it yourself? Wow, you are good!",inform
+2_1_d895.wav,And let them ruin my life? Forget it!,inform
+2_1_d918.wav,How nice to see you again!,inform
+2_1_d974.wav,Things are tough all over. You should never give up!,directive
+2_1_d1076.wav,Hey! Watch out! You're using the same spoon for both broths!,directive
+2_1_d1082.wav,"Well, your time has been well spent!",inform
+2_1_d1092.wav,We enjoy it too!,inform
+2_1_d1248.wav,A DENY shirt and one of Serena Williams' used tennis rackets!,inform
+2_1_d1358.wav,Really? I think that's impossible!,question
+2_1_d1411.wav,"Uh! I can't swallow them, Dad!",commissive
+2_1_d1451.wav,Good choice!,commissive
+2_1_d1526.wav,Great idea!,commissive
+2_1_d1846.wav,It's not breathing!,inform
+2_1_d1877.wav,"Boy oh, boy! This is so cool. Let's rock and roll!",directive
+2_1_d1910.wav,Well I don’t think so. I don’t like it at all!,inform
+2_1_d2081.wav,You won't need it. Tom is going to treat everybody!,inform
+2_1_d2118.wav,I think we should discourage people from using their private cars. They produce too much pollution!,inform
+2_1_d2352.wav,"It's still stocked, and there's plenty of ice. Here you are-cheers!",inform
+3_0_d35.wav,My boss gave me a big project. I had to have it finished by this morning. It was so difficult!,inform
+3_0_d355.wav,Waitress!,inform
+3_0_d467.wav,"Camping for an evening is OK, but I couldn't do it for much longer than one night!",inform
+3_0_d698.wav,I think there's been a misunderstanding!,commissive
+3_0_d746.wav,I have to work on Saturday all day! I really hate my job!,inform
+3_0_d787.wav,So tell me about it!,inform
+3_0_d1082.wav,"It also helps that I have strong team members, such as yourself. You really know your stuff!",inform
+3_0_d1201.wav,Right!,commissive
+3_0_d1221.wav,"Yes, we had a good time. The trip was terrific. We toured the Three Gorges by boat. It's realty exciting!",inform
+3_0_d1231.wav,Congratulations!,inform
+3_0_d1248.wav,Your idol! Wow! You're even better at finding stuff than me!,inform
+3_0_d1250.wav,"What's more, he said I was the hardest working person in the office!",inform
+3_0_d1368.wav,"With everything, with everybody, with all this!",inform
+3_0_d1459.wav,I helped break... I mean wash... all the dishes!,inform
+3_0_d1461.wav,Thank you! Have a nice day!,inform
+3_0_d1551.wav,I'm absolutely useless at cooking!,inform
+3_0_d1707.wav,It's huge!,inform
+3_0_d1732.wav,"Yes, in a monkey suit. It's adorable!",inform
+3_0_d1762.wav,"Yes, but you need to slow down. This is jogging, not racing!",inform
+3_0_d1892.wav,No way!,inform
+3_0_d1987.wav,"You did? Umm do tell me. I've spent all these months trying to learn something new about it, but I've made little progress!",directive
+3_0_d2002.wav,It's July seventh. Chinese Valentine's Day!,inform
+3_0_d2252.wav,Seeking plum blossoms with stepping on the snow? That's a good idea. Let's go!,commissive
+3_0_d2309.wav,What an excellent idea!,commissive
+3_0_d2520.wav,You didn't have to do that!,inform
+3_1_d59.wav,"Me either. From the very first page, this author just pulled me right in!",inform
+3_1_d108.wav,"I live on one one seven seven Oak lane in Smithfield. Oh, hurry, I don't know what to do!",inform
+3_1_d269.wav,"To be honest, it was horrible! My manager is such a pain in the neck!",inform
+3_1_d333.wav,"Sure, I see safety is the most important thing! Accident is awful! I will take your advice!",commissive
+3_1_d368.wav,"Sometimes it's wise to be direct with people. Come on, just tell me. Don't beat around the bush, please!",directive
+3_1_d495.wav,I'm glad to hear that. Congratulations!,inform
+3_1_d560.wav,"Yes, me too. I think I’ve lost some important clients recently because of this train!",inform
+3_1_d605.wav,The Rubik's cube is so difficult to solve that I think it should be banned!,inform
+3_1_d635.wav,I know the perfect place!,inform
+3_1_d658.wav,I'm worried that everything will be chaotic!,inform
+3_1_d678.wav,Great!,inform
+3_1_d707.wav,"OK, OK, fine! Just open the gate!",commissive
+3_1_d733.wav,Booze!,inform
+3_1_d734.wav,Not only that!,inform
+3_1_d775.wav,This is almost like a Taiwanese night market! I can't believe it!,inform
+3_1_d805.wav,"I have studied its skills recently at a training school. I plan to run a restaurant, so I have to practise cooking!",inform
+3_1_d908.wav,What a pity!,inform
+3_1_d1000.wav,Curse this oven! Curse it!,inform
+3_1_d1181.wav,Yes. It's a birthday present from my husband!,inform
+3_1_d1290.wav,"Let me guess, Mocha, Mandheling, and Santos!",inform
+3_1_d1301.wav,"OK, murder will out!",inform
+3_1_d1347.wav,Good gracious. That’s incredible!,inform
+3_1_d1475.wav,We are not alone here. So many other families!,inform
+3_1_d1528.wav,"Uh, you're kidding!",inform
+3_1_d1603.wav,"Come on, you sound like my Mom.Look at that, it's beautiful!",inform
+3_1_d1797.wav,"I'm fine. After ten years, you still look great!",inform
+3_1_d1838.wav,"Sixty-five? What the? How did you bargain him down, Jim? You've never even been to a flea market before!",question
+3_1_d1849.wav,"No, I'm an art lover, so I think more of Bellini and Botticelli!",inform
+3_1_d2001.wav,"I see your reservation on my computer. Let me just cancel it, and you'll be all set!",inform
+3_1_d2052.wav,Look! Here it is!,directive
+3_1_d2084.wav,"And they have tangy, freshly-made salsa, too. My mouth is watering already!",inform
+3_1_d2197.wav,And the people were so friendly!,question
+3_1_d2254.wav,"It sure is cold this morning, isn’t it? I barely even get out of bed!",question
+3_1_d2288.wav,Ahh! Now that's more like it. Atmosphere!,inform
+3_1_d2324.wav,You big scrooge!,commissive
+3_1_d2420.wav,Wow. We don't get to see this in the city!,commissive
+4_0_d87.wav,"What are you talking about, we tried everything!",inform
+4_0_d92.wav,Ha! That's right. You used to smoke. I forgot!,inform
+4_0_d127.wav,"I tried to introduce myself to them when they moved in, but they were so arrogant that I didin't want to ever talk to them again!",inform
+4_0_d131.wav,Not just today. Go exercise everyday!,directive
+4_0_d268.wav,Umm but it's Saturday!,inform
+4_0_d351.wav,That's wonderful!,inform
+4_0_d449.wav,"Yeah. Oh, it's delicious!",inform
+4_0_d504.wav,"I do, that’s why you should appreciate this gift!",inform
+4_0_d527.wav,"Oh, right. My geography isn't very good!",inform
+4_0_d550.wav,You’re darn right!,inform
+4_0_d560.wav,"Yes, my customers have started to complain too!",inform
+4_0_d563.wav,"Well, there's nothing I can do about my height!",inform
+4_0_d758.wav,"Yes,  Umm…. the chicken looks wonderful!",commissive
+4_0_d771.wav,You really are lucky!,inform
+4_0_d792.wav,We haven't. Hurry up!,directive
+4_0_d805.wav,It is a good idea. What dish are you cooking now?!,question
+4_0_d880.wav,Not anymore! Can you believe it? Umm they've decided that Pluto is not a planet anymore!,question
+4_0_d932.wav,Let the men take the lead!,directive
+4_0_d945.wav,"Sugar, sugar, preservatives, fats, more sugar, more fat, more preservatives!",inform
+4_0_d1019.wav,Later this month. I can't wait!,inform
+4_0_d1026.wav,He married a girl who is only eighteen!,commissive
+4_0_d1274.wav,Titanic? That old film? But I've seen it before!,inform
+4_0_d1282.wav,That's sheer robbery!,inform
+4_0_d1305.wav,Just alright? She's fabulous!,inform
+4_0_d1329.wav,I really admire those who made such great inventions!,inform
+4_0_d1424.wav,I'm so humiliated! What's that man saying? Everyone's laughing!,question
+4_0_d1437.wav,"Oh, that's too bad! I am sorry to hear that!",inform
+4_0_d1498.wav,Thanks for the invitation. I will!,commissive
+4_0_d1508.wav,Some guy in the accounting department has a brother on the team!,inform
+4_0_d1601.wav,It's your fault for mixing the two broths!,directive
+4_0_d1604.wav,Great!,inform
+4_0_d1664.wav,"Well, you have three kids, so you knew what it meant once upon a time!",inform
+4_0_d1719.wav,That's amazing!,inform
+4_0_d1754.wav,I don't want to argue anymore. Please get out of my life!,inform
+4_0_d1798.wav,"The more, the merrier!",commissive
+4_0_d1838.wav,It must be my special touch. Umm I think bargaining is in my blood!,inform
+4_0_d1873.wav,"What are you talking about, we've tried everything!",commissive
+4_0_d1891.wav,What park? You found a doll in a park? Gross!,question
+4_0_d1908.wav,I guess the games I like the most are the ones that I'm good at!,inform
+4_0_d1950.wav,I want to ride a camel and definitely see the pyramids!,inform
+4_0_d1979.wav,I just cann't believe my ears!,inform
+4_0_d1996.wav,It was that final sprint! You were great! Really!,inform
+4_0_d2060.wav,"OK, I see. Thank you!",commissive
+4_0_d2104.wav,That's incredible!,inform
+4_0_d2136.wav,"I swear, the overhead compartments on these planes just keep getting smaller and smaller!",inform
+4_0_d2140.wav,Those are the ones that are pre-dipped in sweet coating!,inform
+4_0_d2156.wav,"Of course, Bamboo!",inform
+4_0_d2238.wav,"Yes, and the food was horrible!",inform
+4_0_d2288.wav,"Come on baby, let's dance!",directive
+4_0_d2324.wav,Hear me out. We can pool the money and give it to a family who could really use it!,inform
+4_0_d2342.wav,"Oh, that's right. Renting is good!",commissive
+4_0_d2362.wav,I can hardly wait!,inform
+4_0_d2440.wav,"It's exciting news! If we find a second solar system, we might find a second earth!",inform
+4_0_d2472.wav,You must be joking. You can't fall in love with someone you've never met!,question
+4_1_d271.wav,"You went out and bought khakis, too!",inform
+4_1_d339.wav,Really? That's the icing on the cake. Congratulation again!,inform
+4_1_d369.wav,Wow!!!,inform
+4_1_d437.wav,"Hey, you can dance to rap music!",directive
+4_1_d441.wav,Stop acting like this. Say away!,directive
+4_1_d457.wav,Yes!,inform
+4_1_d540.wav,Good. So we don't have to work. How nice!,inform
+4_1_d582.wav,"Oh, great! That’s at the other end of the terminal!",inform
+4_1_d732.wav,"Oh, gosh! I have to go to the restroom so bad! I can't bear it anymore!",inform
+4_1_d1076.wav,You're getting that hot stuff in my mild broth!,inform
+4_1_d1082.wav,"Thanks, but I have to admit I am really good at bluffing!",inform
+4_1_d1097.wav,And we could get a dog!,directive
+4_1_d1103.wav,Good!,inform
+4_1_d1110.wav,"Ha, yes, brilliant!",inform
+4_1_d1172.wav,That's it!,commissive
+4_1_d1183.wav,Come on! Don’t be silly!,inform
+4_1_d1200.wav,Good. I think I'll get too nervous to look at myself in the mirror!,inform
+4_1_d1238.wav,"Sure. I love this place, especially the decoration. So tasteful!",inform
+4_1_d1248.wav,Yep. I placed a bid for the shirt. The minimum was ten so I bet fifty!,inform
+4_1_d1358.wav,Yeah!,inform
+4_1_d1391.wav,You’re the best!,inform
+4_1_d1468.wav,Wow! What a hit!,inform
+4_1_d1551.wav,I could teach you how to cook something healthy. Frozen pizza are so bad for you!,inform
+4_1_d1616.wav,Exactly!,inform
+4_1_d1765.wav,You're right! How are you? It's been a long time!,inform
+4_1_d1855.wav,"Look, it's starting!",inform
+4_1_d1890.wav,Just what I thought!,inform
+4_1_d1957.wav,"Really? No, no, I couldn't! You're too nice!",commissive
+4_1_d2180.wav,That's a good idea. Let's go!,commissive
+4_1_d2237.wav,Thanks a lot!,inform
+4_1_d2252.wav,What a heavy snow!,inform
+4_1_d2366.wav,"Okay, no problem. Bye!",commissive
+4_1_d2517.wav,"No, mine!",inform
+5_0_d110.wav,Are you ready? Here we go. Say Cheese!,inform
+5_0_d153.wav,"He told me that if I showed up late one more time, he'd fire me. He's so mean!",inform
+5_0_d179.wav,That's great. Let's go!,inform
+5_0_d203.wav,I don't know. I don't know what most of this food is!,inform
+5_0_d263.wav,"Enough! If we don't finish the game, there won't be time for any movies tonight!",directive
+5_0_d457.wav,Ze ze ze... Women!,inform
+5_0_d505.wav,Totally cool colors!,inform
+5_0_d559.wav,I went sky-diving!,inform
+5_0_d582.wav,"OK, so here’s the plan ; When we land, run to gate fourteen!",inform
+5_0_d615.wav,"Umm I think you’re absolutely right. OK, that’s decided then!",directive
+5_0_d698.wav,OK! Just give her this for me!,commissive
+5_0_d781.wav,Really? That's wonderful!,question
+5_0_d823.wav,Cool!,inform
+5_0_d1085.wav,You should also put yours on. You never know what will happen with me in the driver’s seat!,inform
+5_0_d1086.wav,It's great!,inform
+5_0_d1200.wav,"Oh, don't. I'm sure you'll be the loveliest bride ever!",inform
+5_0_d1345.wav,How amazing!,inform
+5_0_d1760.wav,What a pity!,inform
+5_0_d1846.wav,I would look so cool carrying this around!,inform
+5_0_d1939.wav,You're right! So I can listen to music while riding my motorbike!,inform
+5_0_d2002.wav,I thought you had trouble with Clive!,inform
+5_0_d2031.wav,Shooting guard. The same as Michael Jordan!,inform
+5_0_d2081.wav,Then I bet he's really good!,inform
+5_0_d2191.wav,It's about two hundred years old. It has a lot of history!,inform
+5_0_d2334.wav,Maybe!,inform
+5_0_d2366.wav,Bye!,inform
+5_0_d2435.wav,Let's enter it!,directive
+5_0_d2485.wav,Then I'll tell folks the food's ready. Come and get it! I've always wanted to say that!,inform
+5_0_d2517.wav,Thank goodness!,inform
+5_1_d22.wav,Are you kidding? You're going to cause an accident just from people gawking!,directive
+5_1_d200.wav,"OK, will do!",commissive
+5_1_d269.wav,"Well, he made quite a few mistakes on the monthly report and when his supervisor found them, my manager blamed them on me!",inform
+5_1_d276.wav,I got it as a gift so I couldn't take it back. Good luck! I hope it will fit you!,commissive
+5_1_d297.wav,Won't he be surprised!,inform
+5_1_d312.wav,"I'm pulling your leg, Paul. I'm a shopping queen, remember? So of course I know what a garage sale is all about!",inform
+5_1_d318.wav,"No, I don't like action movies because I'm cultured!",inform
+5_1_d327.wav,Thank you so much!,inform
+5_1_d333.wav,"Yes, definitely! You can't drive freely!",inform
+5_1_d335.wav,It’s a special kind of Chinese herb. It’s good for you!,inform
+5_1_d340.wav,"Well, it's started raining since then. Look out the window! It's pouring rain out there!",inform
+5_1_d363.wav,The night life there. It's so romantic!,question
+5_1_d495.wav,"Sure, but you really did great and outperformed the others. You deserved it!",inform
+5_1_d500.wav,Great! Umm I can teach you men a thing or two about shopping!,commissive
+5_1_d560.wav,Oh look! Here it comes now!,inform
+5_1_d583.wav,That's good!,inform
+5_1_d680.wav,Hey! The movie hasn't even started and they're almost gone!,commissive
+5_1_d707.wav,Thank god! A car's leaving. It's my turn!,commissive
+5_1_d734.wav,"OK, OK. I'll whisper it to you, but you have to promise not to tell anyone!",inform
+5_1_d775.wav,"Oh, yeah. OK. I'll just buy small things!",inform
+5_1_d932.wav,"Wow! Oh, no!",commissive
+5_1_d948.wav,Hurry! Get a shot! Hand it over!,directive
+5_1_d994.wav,OK. Thanks for that!,commissive
+5_1_d1109.wav,Yeah. Let's just lounge around!,directive
+5_1_d1181.wav,"He'll come out with surprises. Just wait and see. Look at that woman, with the white chiffon!",inform
+5_1_d1222.wav,What bad luck!,inform
+5_1_d1290.wav,"No, I just read the names off the packages... Ha!",inform
+5_1_d1445.wav,"Sorry, not tonight!",commissive
+5_1_d1508.wav,Can't beat that! Thank you accounting guy!,inform
+5_1_d1548.wav,Have a nice holiday!,inform
+5_1_d1655.wav,"Umm no, but someone said he was in the men's room puking. Follow me!",inform
+5_1_d1822.wav,(At the Party) It's Christmas Eve! Time to open presents!,directive
+5_1_d1838.wav,Never underestimate a man when it comes to bargaining!,inform
+5_1_d1886.wav,I’m on it!,commissive
+5_1_d1961.wav,"Yes, I think you’re right!",commissive
+5_1_d1967.wav,"I decided to put him up while he's here, big mistake!",inform
+5_1_d2060.wav,You are welcome!,inform
+5_1_d2088.wav,All right. Say cheese!,commissive
+5_1_d2288.wav,Oops! It's the landlord. I guess the tables have turned now. We're the noisy neighbors. Turn it down!,directive
+5_1_d2327.wav,"Well, they should have called you!",inform
+5_1_d2344.wav,That's true. But I just love it. Come here!,directive
+5_1_d2374.wav,Whatever. Umm I wish people would just leave me alone!,inform
+5_1_d2420.wav,Look behind us at the mountains! They're reflecting pink!,inform
+5_1_d2486.wav,I thought he only liked to listen!,commissive
+6_0_d52.wav,"It works if you keep at it. Come on, let's go!",directive
+6_0_d221.wav,"Well, I just got back from my language school. We have to speak French all day there. No English allowed!",inform
+6_0_d235.wav,"Oh great, I’ll see you there!",inform
+6_0_d256.wav,"Soup and bread and salad bar! I'm telling you, these people know how to keep you coming back!",inform
+6_0_d333.wav,"Now, we are out of the town, you can drive freely!",directive
+6_0_d368.wav,We’ve won two free tickets to Hawaii for a seven-day vacation!,inform
+6_0_d397.wav,I need some to keep as souvenirs!,inform
+6_0_d488.wav,What an interesting family!,inform
+6_0_d498.wav,Nothing of that sort!,inform
+6_0_d605.wav,I didn't really have to figure it out. I just followed the instructions!,inform
+6_0_d622.wav,"Oh, I have got it. How nice are the singers singing!",inform
+6_0_d644.wav,It won't go in!,commissive
+6_0_d658.wav,I will. Don't worry!,commissive
+6_0_d704.wav,"I'll give you five more minutes, then I'm going on without you!",directive
+6_0_d715.wav,Right. Cool! Let's go!,directive
+6_0_d756.wav,"I should think so, too!",commissive
+6_0_d758.wav,"Sure, I love salad!",commissive
+6_0_d784.wav,"Uniforms, sis, no more worrying about appearances!",inform
+6_0_d792.wav,And about time too!,inform
+6_0_d806.wav,You're so old fashioned! Nobody is going to pull down your pants!,inform
+6_0_d813.wav,You are a smart girl!,inform
+6_0_d856.wav,How dare you question my statement!,commissive
+6_0_d932.wav,Oops!,inform
+6_0_d968.wav,Seven thirty. There is only ten minutes left and look at the long line!,inform
+6_0_d1000.wav,Wonderful! A perfect piece of bread!,inform
+6_0_d1072.wav,"I don't know about all of that, but think about it, their business gets free publicity!",inform
+6_0_d1245.wav,Then what? Your plane was three hours late!,question
+6_0_d1261.wav,I'm really sick!,inform
+6_0_d1283.wav,Mendy? Are you sure? I love her songs!,question
+6_0_d1388.wav,It's great!,inform
+6_0_d1404.wav,"Yes, of course. Step in, please!",directive
+6_0_d1584.wav,"Yes, sure. Have a sweet dream!",commissive
+6_0_d1829.wav,"Let me try. Oh, I missed!",inform
+6_0_d1913.wav,All right! Thanks!,inform
+6_0_d2070.wav,There are nine cockroaches in my room. I don't have time for your disbelief!,commissive
+6_0_d2145.wav,You are welcome!,commissive
+6_0_d2203.wav,I promise!,inform
+6_0_d2221.wav,Ta da! Let's go to the Ritz!,inform
+6_0_d2222.wav,"Twenty to one, in favour of the Cougars!",inform
+6_0_d2329.wav,This is a pity!,inform
+6_0_d2340.wav,"How about pizza or maybe some fried chicken! Better yet, let's order some hot dogs!",directive
+6_0_d2344.wav,"Oh, this silk carpet is really beautiful. Look at the pattern, and how delicate it is!",commissive
+6_0_d2381.wav,"No, I left it at home. Sorry!",inform
+6_0_d2388.wav,"That’s without a doubt, the best idea you’ve had! Let’s do it!",commissive
+6_0_d2392.wav,"OK, let’s do that then!",commissive
+6_0_d2420.wav,Amazing. The sun is almost gone and yet there is still color everywhere!,inform
+6_0_d2436.wav,I knew some day I would be able to profit from your love of fun!,inform
+6_0_d2464.wav,Thank you!,inform
+6_0_d2487.wav,More sales!,inform
+6_1_d76.wav,"OK, but they better tag lightly!",inform
+6_1_d212.wav,Don't worry! Today they are wearing dresses!,inform
+6_1_d213.wav,What a pity!,inform
+6_1_d337.wav,Wonderful!,inform
+6_1_d338.wav,Thanks. That’s terrific!,inform
+6_1_d369.wav,That's terrific!,inform
+6_1_d446.wav,Hah! OK. Let’s go together!,commissive
+6_1_d528.wav,"Well, if you want to live in London, you have to pay the price!",inform
+6_1_d559.wav,You're kidding me! that sounds really scary!,inform
+6_1_d582.wav,Umm I’ll be right behind ya!,commissive
+6_1_d720.wav,No problem!,commissive
+6_1_d742.wav,Big head!,inform
+6_1_d942.wav,Thanks!,inform
+6_1_d1067.wav,Good!,inform
+6_1_d1124.wav,"Two fifty yuan, please!",inform
+6_1_d1332.wav,Now he's looking over here! He's coming!,inform
+6_1_d1395.wav,"Sure thing, Johnny. Watch out for dishpan hands there, kid!",inform
+6_1_d1411.wav,Yuck!,commissive
+6_1_d1459.wav,Thanks for your help!,inform
+6_1_d1484.wav,My boss has been breathing down my neck all day. I can't wait for the weekend!,inform
+6_1_d1549.wav,"Because I'm the wrong sex, of course!",inform
+6_1_d1586.wav,"No, ties. And there's a tie store. Let's go!",commissive
+6_1_d1742.wav,"OK, thin crust. Your total is twenty one-fifty dollars and your order will arrive in thirty minutes or it’s free!",commissive
+6_1_d1831.wav,You'd better spell that!,directive
+6_1_d1846.wav,And you'd look so cool!,inform
+6_1_d1910.wav,Poor us! All this junk food lacks nutrition!,inform
+6_1_d2111.wav,"That's great, congratulations!",inform
+6_1_d2184.wav,That's too bad!,commissive
+7_0_d12.wav,What a pity!,inform
+7_0_d168.wav,"Great and white! Which reminds me, let's pick up some heavy duty sunscreen!",directive
+7_0_d290.wav,I have booked you for one window seat on American airline flight Number. Four zero nine. Have a good trip!,inform
+7_0_d591.wav,"Umm yes, we should go. Thank you very much. Goodbye!",inform
+7_0_d593.wav,Whatever you say. I just want to get to my meeting!,commissive
+7_0_d818.wav,Umm I did actually but I think I met some of the friendliest people in China. They soon showed me the way!,inform
+7_0_d868.wav,Hey. Let's trade places one weekend!,directive
+7_0_d936.wav,"Welcome! Come in, please!",directive
+7_0_d1092.wav,Good! I am really thirsty. You know it really is hot outside!,commissive
+7_0_d1094.wav,See you!,inform
+7_0_d1113.wav,They went to their stores to get one. Here they come with it now!,inform
+7_0_d1184.wav,I'm ready. I'll look forward to it all Friday!,commissive
+7_0_d1376.wav,That's him!,inform
+7_0_d1434.wav,What a pity!,inform
+7_0_d1455.wav,All right. Maybe next time I can go with you. Bye!,inform
+7_0_d1683.wav,Hey!,commissive
+7_0_d1745.wav,Congratulations! That's really exciting! Let's get out a bottle of wine to celebrate!,directive
+7_0_d1971.wav,You have a perfect taste!,inform
+7_0_d2081.wav,This is where we sing? These booths are so comfortable I think I could fall asleep!,question
+7_0_d2131.wav,Who knows! It's a long game. Look! That was a really nice shot!,inform
+7_0_d2160.wav,Where is my wallet? Someone has stolen my wallet!,question
+7_1_d1.wav,Bye-bye. Visit us again soon!,commissive
+7_1_d30.wav,"Oh, My God! So much!",commissive
+7_1_d108.wav,"Yes, he's breathing, but he's not conscious! Oh, please hurry!",inform
+7_1_d127.wav,They soud like the neighbours from hell!,inform
+7_1_d224.wav,I guess you could say that. Eating fruit and vegetables helps keep you healthy. I've lost 5 pounds and I feel great!,question
+7_1_d256.wav,I see what you mean!,inform
+7_1_d258.wav,Let's try it!,inform
+7_1_d297.wav,That's OK. Maybe his wife will spill the beans!,inform
+7_1_d303.wav,This is going to be a major production for you!,inform
+7_1_d333.wav,"Compare with speaking, yes! But things are not good as you expecting!",commissive
+7_1_d373.wav,Let's go there for lunch! I'm up for an adventure!,inform
+7_1_d550.wav,"Ur, it stinks!",inform
+7_1_d567.wav,"Let me see. Yes, they are perfectly matched!",inform
+7_1_d605.wav,I had no idea there were a set of instructions. I thought everyone who could solve it were all geniuses!,inform
+7_1_d620.wav,"OK, I got it. You're collecting souvenirs!",inform
+7_1_d635.wav,Glad you asked me to join you. This will be fun!,inform
+7_1_d664.wav,Let's hurry. I'm starving!,directive
+7_1_d704.wav,You wouldn't do a thing like that!,commissive
+7_1_d765.wav,Thank you!,inform
+7_1_d782.wav,It doesn't matter. Bye-bye!,inform
+7_1_d784.wav,You mean I have to wear the same thing every day? MOM!,question
+7_1_d806.wav,"If you ask me, it's a walking invitation!",inform
+7_1_d945.wav,"There's the difference, your wife made it! I have to take my own lunch!",inform
+7_1_d1005.wav,It's fourty two dollars! That's expensive!,inform
+7_1_d1025.wav,I'm a TV announcer. Don't you recognize me? I do the weather report on KNT!,inform
+7_1_d1072.wav,"Oh, yeah, they get to be in a movie for the whole world to see!",inform
+7_1_d1190.wav,And please shut the door and lock it behind you!,inform
+7_1_d1205.wav,"Great, let’s go!",inform
+7_1_d1222.wav,"Yeah, maybe you are right!",inform
+7_1_d1233.wav,I would buy that kind of book!,inform
+7_1_d1266.wav,I'm impressed. Good for you!,inform
+7_1_d1286.wav,Ohhhhh! And I just got all my juices going!,inform
+7_1_d1356.wav,I don't know how they function the next day! It's like they eat and breathe soccer!,inform
+7_1_d1508.wav,What are we waiting for? Let's go!,commissive
+7_1_d1603.wav,"All right. How about this black shirt? It can be worn for anything---a party, a job interview and even a funeral!",directive
+7_1_d1803.wav,What a pity!,inform
+7_1_d1822.wav,Wow! It's just what I wanted!,commissive
+7_1_d2021.wav,"OK, a bottle of the house red please!",commissive
+7_1_d2157.wav,"Well, it's one way to get through the in-betweens if you really want to grow it out!",inform
+7_1_d2254.wav,Did you happen to watch the football game last night? The Patriots scored in the last minute!,question
+7_1_d2373.wav,OK! See you later!,commissive
+7_1_d2380.wav,Great! I have a coupon for free popcorn at that theater!,commissive
+7_1_d2388.wav,Run! They are thirsty for more!,directive
+7_1_d2420.wav,Where is our camera? Let's see if we can catch this on film!,question
+7_1_d2436.wav,"Well, I don't know about the profit part yet. But I am really having fun!",inform
+7_1_d2451.wav,"Last time when we had dinner at the Smith's, it was a horrible experience. He had no manners at all!",inform
+7_1_d2486.wav,He has a really good voice!,inform
+8_0_d29.wav,Guess!,inform
+8_0_d81.wav,I'm going to change into my trunks right now!,inform
+8_0_d85.wav,That's wonderful! I have heard the scene of Li River is beautiful!,commissive
+8_0_d316.wav,I'll go down there as soon as I can!,inform
+8_0_d320.wav,"OK, you are all set, Ms. Armstrong. Enjoy your flight!",inform
+8_0_d397.wav,"Yes, souvenirs. Trinkets to remember my trip by!",inform
+8_0_d704.wav,"Oh, yes, I would!",inform
+8_0_d721.wav,I think that would be horrible!,inform
+8_0_d756.wav,"Yes, and please be more careful in the future!",inform
+8_0_d758.wav,"Yes, I think that rice will go perfectly with my chicken!",commissive
+8_0_d782.wav,Bye!,inform
+8_0_d896.wav,That sounds absolutely disgusting!,inform
+8_0_d986.wav,Maybe he is busy with his work. Just wait and try not to think about it too much!,inform
+8_0_d1140.wav,A barber shop?!,inform
+8_0_d1254.wav,"Yeah, I will. See you then!",commissive
+8_0_d1496.wav,"Oh, boy! This is going to be great. I'm going to the gym right now!",inform
+8_0_d1574.wav,Supper!,inform
+8_0_d1681.wav,Poor girl!,inform
+8_0_d1700.wav,Thank you so much!,inform
+8_0_d1706.wav,Oh... That makes me excited too!,inform
+8_0_d1754.wav,"Yes, I do. Leave me alone!",inform
+8_0_d1766.wav,You are welcome. Have a good trip!,inform
+8_0_d1821.wav,Sort of. I played golf on my computer!,inform
+8_0_d1822.wav,Hey! Why don't I have any presents!,inform
+8_0_d1932.wav,OK. Bye!,inform
+8_0_d2049.wav,"Yeah, but I was born here!!",inform
+8_0_d2197.wav,Umm if only we could eat there once more!,inform
+8_0_d2307.wav,"I took a few diving classes, but I didn't really like it, so I did snorkeling instead!",inform
+8_0_d2463.wav,That's a good idea!,commissive
+8_0_d2478.wav,Sounds good!,inform
+8_0_d2532.wav,Yeah. I've seen pictures of the crowds!,inform
+8_1_d356.wav,Dream on!,inform
+8_1_d380.wav,"No, I don't. I can't stand them!",inform
+8_1_d409.wav,"This is your voucher, and you can get your luggage back on this. Have a good trip!",inform
+8_1_d591.wav,Bye bye! Have a pleasant journey!,inform
+8_1_d830.wav,Great idea! Here we go!,commissive
+8_1_d868.wav,OK. Great idea!,commissive
+8_1_d928.wav,Dress casually and bring your bathing suit!,inform
+8_1_d1113.wav,But look at them! They've forgotten about the wet cement and they're walking across it to put up the notice!,inform
+8_1_d1171.wav,Really? Great!,inform
+8_1_d1221.wav,What a thrilling trip!,inform
+8_1_d1239.wav,With cold milk!,inform
+8_1_d1455.wav,Good bye!,inform
+8_1_d1484.wav,You can say that again! He won't even let us check our personal email at work!,inform
+8_1_d1517.wav,That's great!,inform
+8_1_d1551.wav,"I bought all the ingredients this morning, so let's start!",directive
+8_1_d1579.wav,Thank you!,commissive
+8_1_d1663.wav,"Yeah, I will. See you then!",commissive
+8_1_d1685.wav,And fruits!,inform
+8_1_d1742.wav,"Sir, wait!! I need your address!",directive
+8_1_d1762.wav,But I want to burn up more calories!,inform
+8_1_d2051.wav,"Yes, great!",commissive
+8_1_d2351.wav,"Did you have an accident recently... Hey, wait a second! I know this car!",question
+9_0_d12.wav,"Ho, no!",inform
+9_0_d114.wav,"Here you are. Thank you, bye-bye!",inform
+9_0_d369.wav,"She's not good at remembering things. We have a date, and she's an hour late!!",inform
+9_0_d409.wav,Thank you!,inform
+9_0_d503.wav,You're lucky!,inform
+9_0_d528.wav,"I’d prefer non-smoking roommates, but I guess I’ll have to take what I can get!",inform
+9_0_d739.wav,Nobody exercises any more-not even kids! The average American home has the TV on for six hours a day!,inform
+9_0_d1092.wav,Mango juice would be perfect. Thank you!,commissive
+9_0_d1162.wav,Thanks!,inform
+9_0_d1366.wav,Don't worry. Everything will go well. I promise!,inform
+9_0_d1452.wav,"They do. Once my son was born, there was no reason to drive this car anymore. It's only a two-seater, you know!",commissive
+9_0_d1657.wav,"Well, I hope you have a wonderful time on your library visits!",inform
+9_0_d1745.wav,Ah. That can wait. Your promotion is the best news I've heard in a long time!,directive
+9_0_d1826.wav,"Fine! Well, I'll get right on it now!",inform
+9_0_d2031.wav,That is not true. They are just jealous of him!,inform
+9_1_d103.wav,It was made four thousand years ago. It's priceless!,inform
+9_1_d269.wav,"He treats everyone pretty poorly, but the way he treats me really takes the cake!",inform
+9_1_d320.wav,Thanks!,inform
+9_1_d557.wav,You are funny!,inform
+9_1_d663.wav,Your meal will be delivered as soon as it's all ready. Enjoy!,commissive
+9_1_d721.wav,I think I'll stick with a more traditional choice today!,inform
+9_1_d1853.wav,That's a good idea. Let's go!,commissive
+9_1_d1896.wav,"Umm don't be so happy, it is just one of my tests!",inform
+9_1_d1921.wav,That doesn't sound like a good choice for today though. Let's order!,inform
+9_1_d2254.wav,"Oh... By the way, I saw you with your daughter at the office Christmas party. She is really beautiful!",inform
+9_1_d2327.wav,It's the holidays! Everybody knows how hard it is to get tickets!,inform
+9_1_d2338.wav,Great! It's good to see you. Goodbye!,inform
+9_1_d2398.wav,Absolutely. That set it off big time!,inform
+9_1_d2454.wav,"Oh yeah, when I do that, it hurts a lot more!",inform
+10_0_d248.wav,A good idea. They can teach elephants to dance nowadays perhaps there's hope for us!,commissive
+10_0_d308.wav,It's the newest ten speed cycling mountain bike. These are really expensive!,inform
+10_0_d397.wav,"Oh, that's not the same. I never pay for hotel souvenirs!",commissive
+10_0_d460.wav,Bingo!,inform
+10_0_d583.wav,He performs very well. He is so funny!,inform
+10_0_d911.wav,"To tell you the truth Mrs. Bird, umm, I don't like chicken, either!",inform
+10_0_d1283.wav,But I also heard some people didn't like her music. I don't understand why. She is so amazing!,inform
+10_0_d1903.wav,"If you're lucky, it'll get cancelled and you can have a snow day!",inform
+10_0_d2099.wav,"I don't care about that, Allen! What did he steal? That's the question!",question
+10_0_d2102.wav,Ah! I know a way to convince him that Americans can make good Italian food!,inform
+10_0_d2338.wav,"Yes, stay in touch. Bye!",inform
+10_0_d2469.wav,Perfect!,inform
+10_1_d114.wav,Bye-bye. Welcome to come next time!,inform
+10_1_d450.wav,Really? That sounds interesting!,question
+10_1_d936.wav,"Wonderful! A modest, comfortable room. A beautiful window, through which I can see a beautiful scene, and hear the birds singing. How nice!",commissive
+10_1_d1354.wav,One glass of red wine coming up!,commissive
+10_1_d1402.wav,That's weird!,inform
+10_1_d2081.wav,"OK. How about some spring rolls and squid balls, some pork skins, and some beer!",inform
+10_1_d2107.wav,"Yes, but I'm even more excited about getting my thoughts published again!",inform
+10_1_d2118.wav,"If you got to class by riding a bicycle every day instead of driving, you will get lots of exercise, too!",inform
+10_1_d2180.wav,How lovely it is!,inform
+10_1_d2277.wav,It sounds great!,inform
+11_0_d508.wav,I'll bet you were hungry!,inform
+11_0_d1211.wav,"Good for you, Leslie!",inform
+11_0_d1452.wav,"The heating controls don't work anymore, so it always feels like it's about hundred degrees in the car — even in the summer!",inform
+11_0_d1484.wav,Maybe your boss isn't so horrible after all!,inform
+11_0_d1493.wav,"I can wait, but my toothache can't!",commissive
+11_0_d1825.wav,"We have digital TV. It's amazing though---even with hundred channels, there's often nothing on that I'd want to watch!",inform
+11_0_d2118.wav,I could stand to lose a few pounds. Having a car has made me lazy. I never end up walking anywhere!,inform
+11_1_d269.wav,I really have no idea. All I know is that the thought of him really curls my hair!,inform
+11_1_d460.wav,It's just you!,inform
+11_1_d583.wav,"OK, just ignore him. I've noticed there are lots of exercise facilities in our community. After dinner you can go there for a walk with your family!",inform
+11_1_d644.wav,You seem to have it down. Have a good day!,inform
+11_1_d997.wav,"Looks to me like an eighteen fifty five milimeter lens. pretty standard, that will do. Not like my husband will be stalking celebrities or anything!",commissive
+11_1_d1181.wav,See the woman there? I dare say she hasn't got any eyes. How could she match the mauve gown with the green handbag? And all that jewelry!,inform
+11_1_d1243.wav,Yes. I bought two boxed of chocolate – one for me and one for you!,inform
+11_1_d1385.wav,"Here we are, Central Park!",commissive
+11_1_d1421.wav,"Yeah, I've met her. She's a genius saleswoman!",inform
+11_1_d1761.wav,Thank you very much!,inform
+11_1_d1829.wav,Well done!,inform
+11_1_d2254.wav,Sir this is the fifty sixth floor! We are on the seventieth!,inform
+11_1_d2327.wav,Trust you! You can't even handle simple plane reservations!,commissive
+11_1_d2347.wav,"Oh, yes. I get six Korean channels but nothing in English!",inform
+12_0_d29.wav,My wife didn’t like it!,inform
+12_0_d240.wav,My final price! One hundred dollars for both! That’s two for the price of one. That’s my last offer!,directive
+12_0_d378.wav,You must have been devastated!,inform
+12_0_d504.wav,I think you look fantastic. Happy Birthday!,inform
+12_0_d533.wav,Thankyou. Goodbye!,inform
+12_0_d605.wav,I don't know. I haven't tried yo-yo since that party!,inform
+12_0_d609.wav,( When they are dancing ) You dance gracefully!,inform
+12_0_d736.wav,That's a lot of money!,inform
+12_0_d1245.wav,That sounds like a nightmare!,inform
+12_0_d1388.wav,"If you have any good jobs, keep an eye for me!",directive
+12_0_d1421.wav,I know! She could sell fridges to Eskimos!,inform
+12_0_d1475.wav,"Science? What are you talking about? Forget about your science, OK? It's a picnic!",directive
+12_0_d1980.wav,Come on! Three's a crowd!,commissive
+12_0_d2020.wav,Great! Thank you!,inform
+12_0_d2138.wav,Hey!,inform
+12_0_d2144.wav,Ohhhh!,inform
+12_0_d2254.wav,"That’s OK, I’ll take the stairs!",inform
+12_0_d2327.wav,Brooke!,inform
+12_0_d2490.wav,Guess!,inform
+12_1_d110.wav,That's so kind of you. Thank you very much!,commissive
+12_1_d570.wav,"Thank you, sir. Have a nice drive!",inform
+12_1_d661.wav,OK. How tiring the job is!,commissive
+12_1_d1281.wav,OK. Thanks. Goodbye!,commissive
+12_1_d1462.wav,Sure!,inform
+12_1_d1985.wav,"No, he didn't want to leave, but his wife did!",inform
+12_1_d2035.wav,Wow. Sounds fantastic!,inform
+12_1_d2059.wav,Six fifty Yuan! You must be kidding! I can subscribe for evening newspapers for ten years with that much!,inform
+12_1_d2131.wav,"Oh, man! I can't believe it. A slam dunk!",inform
+13_0_d643.wav,"Thank you, Madam. Have a nice drive!",inform
+13_0_d1157.wav,"And it's been such a faultless performance with the perfect lighting, and music. Just amazing!",inform
+13_0_d1281.wav,Bye!,inform
+13_0_d1685.wav,You bet it!,inform
+13_0_d2118.wav,Sounds good! Let's go!,commissive
+13_0_d2322.wav,That's my wife!,inform
+13_1_d240.wav,Great! You’ve got a deal!,commissive
+13_1_d333.wav,There are a plenty of signs such as Watch for children!,inform
+13_1_d378.wav,I was pretty sad. i still hope that she'll return some day!,inform
+13_1_d504.wav,I’m so lucky. You only get a chance like this once in a blue moon! Thanks honey!,inform
+13_1_d1015.wav,Let's go!,directive
+13_1_d1903.wav,"Hey, look outside! It's started to drizzle!",directive
+13_1_d2020.wav,"My pleasure, and have a good time!",inform
+13_1_d2253.wav,All these should be enough. Good luck!,inform
+13_1_d2381.wav,Good job! This is going to be a great night!,inform
+13_1_d2490.wav,"Nobody is OK, but you!",inform
+13_1_d2512.wav,Crazy!,inform
+14_0_d583.wav,"OK, got it! Thank you so much. You have helped me a lot!",inform
+14_0_d1262.wav,"See, now something good has happened to you on a bus trip!",inform
+14_0_d1283.wav,Here is the programme. Check it out yourself!,inform
+14_0_d1980.wav,Just go! It's Valentine's Day!,inform
+14_0_d2138.wav,This case doesn't belong to me! You've given me the wrong case!,inform
+14_0_d2150.wav,"Well, you have plenty of experience job hunting. I think you'd be the perfect person for the job!",inform
+14_0_d2381.wav,I think so too. Let's go!,inform
+14_0_d2532.wav,Sounds perfect. I can't wait!,inform
+14_1_d153.wav,Don't mention it. That's what friends are for!,inform
+14_1_d418.wav,That's great!,inform
+14_1_d499.wav,"Yes, they were horrible. We had to wear green every day!",inform
+14_1_d746.wav,We've got a few. I can teach you how to surf on Sunday. It'll be fun!,directive
+14_1_d910.wav,Thank goodness we're not rich and famous!,inform
+14_1_d1085.wav,"Remember, no honking this time. The horn is only for emergencies!",inform
+14_1_d1454.wav,OK. I can't wait to see it. Let's go!,inform
+14_1_d1484.wav,Thanks. I better get back to my work before my boss yells at me again!,commissive
+14_1_d1635.wav,That's perfect. I'll let him know tomorrow. Thanks!,commissive
+15_0_d407.wav,"Well, that's for all. Excellent!",inform
+15_0_d499.wav,At least you didn't waste time thinking about what you were going to wear every day!,inform
+15_0_d858.wav,That's very good!,inform
+15_0_d1452.wav,"It costs more than you think to run a car, especially when there are so many things wrong with it!",inform
+15_0_d1898.wav,I'm sure he'll love the idea. Just throw yourself into it and you'll enjoy it!,inform
+15_1_d224.wav,Sounds good. See you there!,commissive
+15_1_d583.wav,You are welcome! We are neighbors!,inform
+15_1_d587.wav,I'd call her and dump her now! You deserve better than her!,inform
+15_1_d713.wav,"Possibly, but I still miss them! What bothers me is that the heat makes the caddies' life quite hard. One member's caddy fainted last week!",inform
+15_1_d785.wav,"Thank you so much, Mr. Sandals. We look forward to seeing you!",inform
+15_1_d880.wav,You're so old-fashioned. That's what people used to think about people from another country!,inform
+15_1_d997.wav,No you’re not! There are some right here!,inform
+15_1_d1661.wav,Thanks!,inform
+15_1_d2307.wav,I'll talk to my husband about it ; I'm sure he'll say yes! He loves Switzerland!,commissive
+16_0_d365.wav,You're right. I probably should just work on my paper. Thanks!,commissive
+16_0_d1245.wav,I had a few coffees while I was waiting. Let's get out of here!,inform
+16_0_d1622.wav,You're right. That might seem a bit rude. It's a good thing I've got you with me!,inform
+16_0_d1798.wav,That'd be great. I'll see you then!,commissive
+16_0_d1908.wav,I thought everyone in your country were experts at mah-jong!,inform
+16_0_d2150.wav,"Sure, it's the ad circled with a red pen in the middle of the classifieds. Good luck!",inform
+16_0_d2531.wav,Thanks. Charlie!,commissive
+16_1_d203.wav,I used to buy lunch every day from the International food stall at school. Everyday was an adventure!,inform
+16_1_d278.wav,You're lucky. Not everyone has such a great boss!,inform
+16_1_d414.wav,I won't argue with that! Let's go!,commissive
+16_1_d499.wav,That's true!,inform
+16_1_d1452.wav,"Well, let me know when you can get it fixed. I’d love to go for a ride in it!",inform
+16_1_d1482.wav,OK. Please wait for a while. We'll get it done quickly!,directive
+16_1_d1484.wav,Alright. See you later!,commissive
+16_1_d1765.wav,"I can, but not as well as I'd like to. I'll be studying Chinese until the day I die!",inform
+16_1_d1825.wav,Why not? I don't have anything better to do!,commissive
+17_0_d890.wav,Thank you!,inform
+17_0_d1024.wav,Bye!,inform
+17_0_d1325.wav,Sounds good. I'll see you then!,commissive
+17_0_d1549.wav,I'm not saying you should. I'm saying you should think about it. That's all!,directive
+17_0_d1551.wav,"White rice, please. None of that healthy brown stuff for me!",inform
+17_0_d1745.wav,We do balance each other out well. I guess we were really made for each other!,inform
+17_0_d2044.wav,That sounds dreadful!,inform
+17_1_d997.wav,"Thanks for your help, Ralph!",commissive
+17_1_d1908.wav,"I hate to disappoint you, but unlike what most people think, we aren't all exactly the same!",inform
+18_1_d430.wav,"It is my pleasure, sir. I wish you a pleasant stay here. Goodbye!",inform
+18_1_d487.wav,That's a good idea. I'll call them now. Thanks for your help!,commissive
+18_1_d746.wav,We'll pick you up at your place at noon. Be there or be square!,inform
+18_1_d890.wav,Bye!,inform
+18_1_d1549.wav,Why should I do that? I'm good at my job! That's the only important thing!,inform
+19_0_d219.wav,So there is something wrong with her! It was beginning to sound like she was too good to be true!,inform
+19_0_d430.wav,Bye-bye!,inform
+19_0_d890.wav,Bye!,inform
+19_0_d1304.wav,"Thanks, I will. I'll see you tomorrow then!",commissive
+19_0_d2351.wav,"It's a deal, Hal. Thanks again for stopping to help. And thanks for smashing my car!",commissive
