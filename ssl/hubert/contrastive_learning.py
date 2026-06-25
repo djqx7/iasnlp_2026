@@ -100,23 +100,67 @@ def build_test_set(csv_path, embedding_root):
                 key = os.path.splitext(f)[0]
                 file_dict[key] = os.path.join(root, f)
 
-    X, y = [], []
+    X = []
+    y = []
+    valid_idx = []
 
     missing = 0
 
-    for _, row in df.iterrows():
+    for idx, row in df.iterrows():
+
         key = os.path.splitext(row["file_name"])[0]
 
         if key in file_dict:
+
             X.append(np.load(file_dict[key]))
             y.append(label_map[row["label"]])
+
+            valid_idx.append(idx)
+
         else:
             missing += 1
 
-    print(f"[INFO] Missing samples: {missing}")
-    print(f"[INFO] Final test size: {len(X)}")
+    print(f"[INFO] CSV rows: {len(df)}")
+    print(f"[INFO] Matched embeddings: {len(X)}")
+    print(f"[INFO] Missing embeddings: {missing}")
 
-    return np.array(X), np.array(y)
+    return np.array(X), np.array(y), np.array(valid_idx)
+    
+def check_missing_files(csv_path, embedding_root):
+
+    df = pd.read_csv(csv_path)
+
+    available = set()
+
+    for root, _, files in os.walk(embedding_root):
+        for f in files:
+            if f.endswith(".npy"):
+                available.add(os.path.splitext(f)[0])
+
+    missing = []
+
+    for _, row in df.iterrows():
+
+        key = os.path.splitext(row["file_name"])[0]
+
+        if key not in available:
+            missing.append(row["file_name"])
+
+    print(f"CSV utterances      : {len(df)}")
+    print(f"Available embeddings: {len(available)}")
+    print(f"Missing embeddings  : {len(missing)}")
+
+    if len(missing) > 0:
+        print("\nFirst 20 missing files:")
+        for x in missing[:20]:
+            print(x)
+
+    return missing
+    
+missing = check_missing_files(
+    "./test/combined_dataset_final.csv",
+    "./test/mean_pooled_embeddings"
+)    
 
 class LabeledDataset(Dataset):
     def __init__(self, X, y):
@@ -191,7 +235,7 @@ def simclr_loss(z1, z2, temp=0.5):
     
 X_train = load_all_embeddings("./train/mean_pooled_embeddings/")
 
-X_test, y_test = build_test_set(
+X_test, y_test, valid_idx = build_test_set(
     "./test/combined_dataset_final.csv",
     "./test/mean_pooled_embeddings"
 )
@@ -257,10 +301,12 @@ for epoch in range(15):
 model.eval()
 
 with torch.no_grad():
-    Z_test = model(torch.tensor(X_test).float().to(device)).cpu().numpy()
+    Z_test = model(
+        torch.tensor(X_test).float().to(device)
+    ).cpu().numpy()
     
 clf = LogisticRegression(max_iter=2000)
-clf.fit(Z_t, y_labeled)
+clf.fit(Z_test, y_test)
 
 pred = clf.predict(Z_test)
 
@@ -283,11 +329,6 @@ label_map = {
 }
 
 y_full = df["label"].map(label_map).values
-
-X_test, valid_idx = build_test_set(
-    "./test/combined_dataset_final.csv",
-    "./train/mean_pooled_embeddings"
-)
 
 y_test = y_full[valid_idx]
 
