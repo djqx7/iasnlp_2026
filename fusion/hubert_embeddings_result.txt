@@ -1,0 +1,226 @@
+CSV utterances      : 202
+Available embeddings: 202
+Missing embeddings  : 0
+[INFO] Scanning directory: ./train/mean_pooled_embeddings/layer_9
+[INFO] Total .npy files found: 4015
+
+[INFO] Loading validation set ...
+[INFO] Indexed embeddings: 202
+[INFO] Matched samples: 202
+[INFO] Missing samples: 0
+[INFO] Validation set size: 202
+
+[INFO] CSV rows: 202
+[INFO] Matched embeddings: 202
+[INFO] Missing embeddings: 0
+Epoch 00 | SupCon loss (val set): 3.5627 | Pseudo loss (train set): 4.2309 | Val loss: 3.3091
+[CKPT] Saved checkpoint → ./checkpoints/model_epoch_00.pt
+[CKPT] Saved checkpoint → ./checkpoints/best_model.pt
+[CKPT] New best model at epoch 0 (val_loss=3.3091)
+Epoch 01 | SupCon loss (val set): 3.3690 | Pseudo loss (train set): 4.1685 | Val loss: 3.2533
+[CKPT] Saved checkpoint → ./checkpoints/model_epoch_01.pt
+[CKPT] Saved checkpoint → ./checkpoints/best_model.pt
+[CKPT] New best model at epoch 1 (val_loss=3.2533)
+Epoch 02 | SupCon loss (val set): 3.3486 | Pseudo loss (train set): 4.0539 | Val loss: 3.2204
+[CKPT] Saved checkpoint → ./checkpoints/model_epoch_02.pt
+[CKPT] Saved checkpoint → ./checkpoints/best_model.pt
+[CKPT] New best model at epoch 2 (val_loss=3.2204)
+Epoch 03 | SupCon loss (val set): 3.3725 | Pseudo loss (train set): 3.9800 | Val loss: 3.1383
+[CKPT] Saved checkpoint → ./checkpoints/model_epoch_03.pt
+[CKPT] Saved checkpoint → ./checkpoints/best_model.pt
+[CKPT] New best model at epoch 3 (val_loss=3.1383)
+Epoch 04 | SupCon loss (val set): 3.2584 | Pseudo loss (train set): 3.9439 | Val loss: 3.0790
+[CKPT] Saved checkpoint → ./checkpoints/model_epoch_04.pt
+[CKPT] Saved checkpoint → ./checkpoints/best_model.pt
+[CKPT] New best model at epoch 4 (val_loss=3.0790)
+Epoch 05 | SupCon loss (val set): 3.2140 | Pseudo loss (train set): 3.9082 | Val loss: 3.0437
+[CKPT] Saved checkpoint → ./checkpoints/model_epoch_05.pt
+[CKPT] Saved checkpoint → ./checkpoints/best_model.pt
+[CKPT] New best model at epoch 5 (val_loss=3.0437)
+Epoch 06 | SupCon loss (val set): 3.0706 | Pseudo loss (train set): 3.9129 | Val loss: 3.0198
+[CKPT] Saved checkpoint → ./checkpoints/model_epoch_06.pt
+[CKPT] Saved checkpoint → ./checkpoints/best_model.pt
+[CKPT] New best model at epoch 6 (val_loss=3.0198)
+Epoch 07 | SupCon loss (val set): 3.0616 | Pseudo loss (train set): 3.9184 | Val loss: 3.0659
+[CKPT] Saved checkpoint → ./checkpoints/model_epoch_07.pt
+Epoch 08 | SupCon loss (val set): 2.9825 | Pseudo loss (train set): 3.8767 | Val loss: 2.9683
+[CKPT] Saved checkpoint → ./checkpoints/model_epoch_08.pt
+[CKPT] Saved checkpoint → ./checkpoints/best_model.pt
+[CKPT] New best model at epoch 8 (val_loss=2.9683)
+Epoch 09 | SupCon loss (val set): 2.9766 | Pseudo loss (train set): 3.8578 | Val loss: 2.9334
+[CKPT] Saved checkpoint → ./checkpoints/model_epoch_09.pt
+[CKPT] Saved checkpoint → ./checkpoints/best_model.pt
+[CKPT] New best model at epoch 9 (val_loss=2.9334)
+Epoch 10 | SupCon loss (val set): 3.0854 | Pseudo loss (train set): 3.8240 | Val loss: 2.9011
+[CKPT] Saved checkpoint → ./checkpoints/model_epoch_10.pt
+[CKPT] Saved checkpoint → ./checkpoints/best_model.pt
+[CKPT] New best model at epoch 10 (val_loss=2.9011)
+Epoch 11 | SupCon loss (val set): 2.9130 | Pseudo loss (train set): 3.7848 | Val loss: 2.8456
+[CKPT] Saved checkpoint → ./checkpoints/model_epoch_11.pt
+[CKPT] Saved checkpoint → ./checkpoints/best_model.pt
+[CKPT] New best model at epoch 11 (val_loss=2.8456)
+Epoch 12 | SupCon loss (val set): 2.7561 | Pseudo loss (train set): 3.7632 | Val loss: 2.8256
+[CKPT] Saved checkpoint → ./checkpoints/model_epoch_12.pt
+[CKPT] Saved checkpoint → ./checkpoints/best_model.pt
+[CKPT] New best model at epoch 12 (val_loss=2.8256)
+Epoch 13 | SupCon loss (val set): 2.8023 | Pseudo loss (train set): 3.8187 | Val loss: 2.8127
+[CKPT] Saved checkpoint → ./checkpoints/model_epoch_13.pt
+[CKPT] Saved checkpoint → ./checkpoints/best_model.pt
+[CKPT] New best model at epoch 13 (val_loss=2.8127)
+Epoch 14 | SupCon loss (val set): 2.7024 | Pseudo loss (train set): 3.7963 | Val loss: 2.7927
+[CKPT] Saved checkpoint → ./checkpoints/model_epoch_14.pt
+[CKPT] Saved checkpoint → ./checkpoints/best_model.pt
+[CKPT] New best model at epoch 14 (val_loss=2.7927)
+Epoch 15 | SupCon loss (val set): 2.7594 | Pseudo loss (train set): 3.7756 | Val loss: 2.6576
+[CKPT] Saved checkpoint → ./checkpoints/model_epoch_15.pt
+[CKPT] Saved checkpoint → ./checkpoints/best_model.pt
+[CKPT] New best model at epoch 15 (val_loss=2.6576)
+Epoch 16 | SupCon loss (val set): 2.7512 | Pseudo loss (train set): 3.7975 | Val loss: 2.6137
+[CKPT] Saved checkpoint → ./checkpoints/model_epoch_16.pt
+[CKPT] Saved checkpoint → ./checkpoints/best_model.pt
+[CKPT] New best model at epoch 16 (val_loss=2.6137)
+Epoch 17 | SupCon loss (val set): 2.6367 | Pseudo loss (train set): 3.7490 | Val loss: 2.5522
+[CKPT] Saved checkpoint → ./checkpoints/model_epoch_17.pt
+[CKPT] Saved checkpoint → ./checkpoints/best_model.pt
+[CKPT] New best model at epoch 17 (val_loss=2.5522)
+Epoch 18 | SupCon loss (val set): 2.5331 | Pseudo loss (train set): 3.7302 | Val loss: 2.5128
+[CKPT] Saved checkpoint → ./checkpoints/model_epoch_18.pt
+[CKPT] Saved checkpoint → ./checkpoints/best_model.pt
+[CKPT] New best model at epoch 18 (val_loss=2.5128)
+Epoch 19 | SupCon loss (val set): 2.5239 | Pseudo loss (train set): 3.7010 | Val loss: 2.5232
+[CKPT] Saved checkpoint → ./checkpoints/model_epoch_19.pt
+Epoch 20 | SupCon loss (val set): 2.5480 | Pseudo loss (train set): 3.6719 | Val loss: 2.4730
+[CKPT] Saved checkpoint → ./checkpoints/model_epoch_20.pt
+[CKPT] Saved checkpoint → ./checkpoints/best_model.pt
+[CKPT] New best model at epoch 20 (val_loss=2.4730)
+Epoch 21 | SupCon loss (val set): 2.5829 | Pseudo loss (train set): 3.6767 | Val loss: 2.4676
+[CKPT] Saved checkpoint → ./checkpoints/model_epoch_21.pt
+[CKPT] Saved checkpoint → ./checkpoints/best_model.pt
+[CKPT] New best model at epoch 21 (val_loss=2.4676)
+Epoch 22 | SupCon loss (val set): 2.4544 | Pseudo loss (train set): 3.6586 | Val loss: 2.4567
+[CKPT] Saved checkpoint → ./checkpoints/model_epoch_22.pt
+[CKPT] Saved checkpoint → ./checkpoints/best_model.pt
+[CKPT] New best model at epoch 22 (val_loss=2.4567)
+Epoch 23 | SupCon loss (val set): 2.4498 | Pseudo loss (train set): 3.6498 | Val loss: 2.4440
+[CKPT] Saved checkpoint → ./checkpoints/model_epoch_23.pt
+[CKPT] Saved checkpoint → ./checkpoints/best_model.pt
+[CKPT] New best model at epoch 23 (val_loss=2.4440)
+Epoch 24 | SupCon loss (val set): 2.4224 | Pseudo loss (train set): 3.6428 | Val loss: 2.4354
+[CKPT] Saved checkpoint → ./checkpoints/model_epoch_24.pt
+[CKPT] Saved checkpoint → ./checkpoints/best_model.pt
+[CKPT] New best model at epoch 24 (val_loss=2.4354)
+Epoch 25 | SupCon loss (val set): 2.4476 | Pseudo loss (train set): 3.6401 | Val loss: 2.4354
+[CKPT] Saved checkpoint → ./checkpoints/model_epoch_25.pt
+[CKPT] Saved checkpoint → ./checkpoints/best_model.pt
+[CKPT] New best model at epoch 25 (val_loss=2.4354)
+Epoch 26 | SupCon loss (val set): 2.4654 | Pseudo loss (train set): 3.6404 | Val loss: 2.4310
+[CKPT] Saved checkpoint → ./checkpoints/model_epoch_26.pt
+[CKPT] Saved checkpoint → ./checkpoints/best_model.pt
+[CKPT] New best model at epoch 26 (val_loss=2.4310)
+Epoch 27 | SupCon loss (val set): 2.4793 | Pseudo loss (train set): 3.6422 | Val loss: 2.4297
+[CKPT] Saved checkpoint → ./checkpoints/model_epoch_27.pt
+[CKPT] Saved checkpoint → ./checkpoints/best_model.pt
+[CKPT] New best model at epoch 27 (val_loss=2.4297)
+Epoch 28 | SupCon loss (val set): 2.4908 | Pseudo loss (train set): 3.6401 | Val loss: 2.4236
+[CKPT] Saved checkpoint → ./checkpoints/model_epoch_28.pt
+[CKPT] Saved checkpoint → ./checkpoints/best_model.pt
+[CKPT] New best model at epoch 28 (val_loss=2.4236)
+Epoch 29 | SupCon loss (val set): 2.4406 | Pseudo loss (train set): 3.6378 | Val loss: 2.4255
+[CKPT] Saved checkpoint → ./checkpoints/model_epoch_29.pt
+Epoch 30 | SupCon loss (val set): 2.4467 | Pseudo loss (train set): 3.6350 | Val loss: 2.4210
+[CKPT] Saved checkpoint → ./checkpoints/model_epoch_30.pt
+[CKPT] Saved checkpoint → ./checkpoints/best_model.pt
+[CKPT] New best model at epoch 30 (val_loss=2.4210)
+Epoch 31 | SupCon loss (val set): 2.4347 | Pseudo loss (train set): 3.6344 | Val loss: 2.4199
+[CKPT] Saved checkpoint → ./checkpoints/model_epoch_31.pt
+[CKPT] Saved checkpoint → ./checkpoints/best_model.pt
+[CKPT] New best model at epoch 31 (val_loss=2.4199)
+Epoch 32 | SupCon loss (val set): 2.4732 | Pseudo loss (train set): 3.6334 | Val loss: 2.4182
+[CKPT] Saved checkpoint → ./checkpoints/model_epoch_32.pt
+[CKPT] Saved checkpoint → ./checkpoints/best_model.pt
+[CKPT] New best model at epoch 32 (val_loss=2.4182)
+Epoch 33 | SupCon loss (val set): 2.5113 | Pseudo loss (train set): 3.6351 | Val loss: 2.4215
+[CKPT] Saved checkpoint → ./checkpoints/model_epoch_33.pt
+Epoch 34 | SupCon loss (val set): 2.4766 | Pseudo loss (train set): 3.6359 | Val loss: 2.4169
+[CKPT] Saved checkpoint → ./checkpoints/model_epoch_34.pt
+[CKPT] Saved checkpoint → ./checkpoints/best_model.pt
+[CKPT] New best model at epoch 34 (val_loss=2.4169)
+Epoch 35 | SupCon loss (val set): 2.3974 | Pseudo loss (train set): 3.6348 | Val loss: 2.4135
+[CKPT] Saved checkpoint → ./checkpoints/model_epoch_35.pt
+[CKPT] Saved checkpoint → ./checkpoints/best_model.pt
+[CKPT] New best model at epoch 35 (val_loss=2.4135)
+Epoch 36 | SupCon loss (val set): 2.4133 | Pseudo loss (train set): 3.6324 | Val loss: 2.4115
+[CKPT] Saved checkpoint → ./checkpoints/model_epoch_36.pt
+[CKPT] Saved checkpoint → ./checkpoints/best_model.pt
+[CKPT] New best model at epoch 36 (val_loss=2.4115)
+Epoch 37 | SupCon loss (val set): 2.3800 | Pseudo loss (train set): 3.6339 | Val loss: 2.4098
+[CKPT] Saved checkpoint → ./checkpoints/model_epoch_37.pt
+[CKPT] Saved checkpoint → ./checkpoints/best_model.pt
+[CKPT] New best model at epoch 37 (val_loss=2.4098)
+Epoch 38 | SupCon loss (val set): 2.4746 | Pseudo loss (train set): 3.6325 | Val loss: 2.4096
+[CKPT] Saved checkpoint → ./checkpoints/model_epoch_38.pt
+[CKPT] Saved checkpoint → ./checkpoints/best_model.pt
+[CKPT] New best model at epoch 38 (val_loss=2.4096)
+Epoch 39 | SupCon loss (val set): 2.3952 | Pseudo loss (train set): 3.6340 | Val loss: 2.4074
+[CKPT] Saved checkpoint → ./checkpoints/model_epoch_39.pt
+[CKPT] Saved checkpoint → ./checkpoints/best_model.pt
+[CKPT] New best model at epoch 39 (val_loss=2.4074)
+Epoch 40 | SupCon loss (val set): 2.5117 | Pseudo loss (train set): 3.6316 | Val loss: 2.4090
+[CKPT] Saved checkpoint → ./checkpoints/model_epoch_40.pt
+Epoch 41 | SupCon loss (val set): 2.3759 | Pseudo loss (train set): 3.6323 | Val loss: 2.4060
+[CKPT] Saved checkpoint → ./checkpoints/model_epoch_41.pt
+[CKPT] Saved checkpoint → ./checkpoints/best_model.pt
+[CKPT] New best model at epoch 41 (val_loss=2.4060)
+Epoch 42 | SupCon loss (val set): 2.4416 | Pseudo loss (train set): 3.6330 | Val loss: 2.4103
+[CKPT] Saved checkpoint → ./checkpoints/model_epoch_42.pt
+Epoch 43 | SupCon loss (val set): 2.4242 | Pseudo loss (train set): 3.6314 | Val loss: 2.4065
+[CKPT] Saved checkpoint → ./checkpoints/model_epoch_43.pt
+Epoch 44 | SupCon loss (val set): 2.3818 | Pseudo loss (train set): 3.6322 | Val loss: 2.4048
+[CKPT] Saved checkpoint → ./checkpoints/model_epoch_44.pt
+[CKPT] Saved checkpoint → ./checkpoints/best_model.pt
+[CKPT] New best model at epoch 44 (val_loss=2.4048)
+Epoch 45 | SupCon loss (val set): 2.3715 | Pseudo loss (train set): 3.6327 | Val loss: 2.4061
+[CKPT] Saved checkpoint → ./checkpoints/model_epoch_45.pt
+Epoch 46 | SupCon loss (val set): 2.5110 | Pseudo loss (train set): 3.6318 | Val loss: 2.4053
+[CKPT] Saved checkpoint → ./checkpoints/model_epoch_46.pt
+Epoch 47 | SupCon loss (val set): 2.4805 | Pseudo loss (train set): 3.6315 | Val loss: 2.4053
+[CKPT] Saved checkpoint → ./checkpoints/model_epoch_47.pt
+Epoch 48 | SupCon loss (val set): 2.3970 | Pseudo loss (train set): 3.6301 | Val loss: 2.4059
+[CKPT] Saved checkpoint → ./checkpoints/model_epoch_48.pt
+Epoch 49 | SupCon loss (val set): 2.4286 | Pseudo loss (train set): 3.6334 | Val loss: 2.4052
+[CKPT] Saved checkpoint → ./checkpoints/model_epoch_49.pt
+
+[INFO] Training complete. Best val loss: 2.4048
+[INFO] Best checkpoint saved at: ./checkpoints/best_model.pt
+
+[INFO] Loading best checkpoint for evaluation ...
+[CKPT] Loaded checkpoint from epoch 44 (val_loss=2.4048)
+
+==================================================
+TEST SET RESULTS (best checkpoint)
+==================================================
+Accuracy         : 0.6238
+Precision (macro): 0.6274
+Recall (macro)   : 0.6284
+F1-score (macro) : 0.6279
+
+Classification Report:
+
+               precision    recall  f1-score   support
+
+  declarative       0.44      0.43      0.44        53
+interrogative       0.81      0.81      0.81        48
+   imperative       0.61      0.62      0.61        50
+  exclamatory       0.65      0.65      0.65        51
+
+     accuracy                           0.62       202
+    macro avg       0.63      0.63      0.63       202
+ weighted avg       0.62      0.62      0.62       202
+
+
+Confusion Matrix:
+
+[[23  5 14 11]
+ [ 1 39  4  4]
+ [14  2 31  3]
+ [14  2  2 33]]
